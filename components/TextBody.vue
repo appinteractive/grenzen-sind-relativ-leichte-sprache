@@ -1,6 +1,6 @@
 <template>
   <div v-editable="blok" class="flex flex-1">
-    <article class="prose" v-html="richtext" />
+    <article class="prose prose-lg" v-html="richtext" />
   </div>
 </template>
 

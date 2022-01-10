@@ -8,7 +8,7 @@
       >
         <nuxt-content
           :document="page"
-          class="prose w-full break-words hyphens-auto"
+          class="prose prose-lg w-full break-words hyphens-auto"
           :class="classes"
         />
       </article>
