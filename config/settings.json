@@ -8,5 +8,6 @@
     "production": "https://www.grenzensindrelativ.de",
     "staging": "https://next.grenzensindrelativ.de",
     "development": "http://localhost:3000"
-  }
+  },
+  "accessible": true
 }

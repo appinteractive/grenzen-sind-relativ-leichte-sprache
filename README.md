@@ -1,4 +1,4 @@
-# grenzen-sind-relativ
+# grenzen-sind-relativ leichte Sprache
 
 ## Build Setup
 
