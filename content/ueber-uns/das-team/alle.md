@@ -1,6 +1,6 @@
 ---
 title: 'Das Team'
-description: 
+description: 'Das sind wir' 
 alias: "/ueber-uns/gsr-team.html"
 overview: true
 

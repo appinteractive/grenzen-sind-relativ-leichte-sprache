@@ -25,8 +25,30 @@ seite:
 
   > Hebt man den Blick, so sieht man keine Grenzen.
   >> Aus Japan
+</div>
+
+----
+
+<div class="text-lg">
+
+## Über uns
+Unser (Der) Verein heißt: Grenzen sind relativ e.V.
+Die Abkürzung ist: GSR e.V.
+e.V. ist die Abkürzung für: eingetragener Verein.
+ 
+Grenzen sind relativ bedeutet:
+Es gibt viele Arten von Grenzen.
+Grenzen trennen Länder
+Menschen haben auch Grenzen
+Weil sie zum Beispiel:
+- eine Behinderung haben
+- eine besondere Krankheit haben
+- aus einem anderen Land kommen
+- nicht gut sprechen
 
 </div>
+
+----
 
 <slideshow class="wide" name="startseite-aktivitaeten"></slideshow>
 
