@@ -29,8 +29,6 @@ seite:
 
 ----
 
-<div class="text-lg">
-
 ## Über uns
 Unser (Der) Verein heißt: Grenzen sind relativ e.V.
 Die Abkürzung ist: GSR e.V.
@@ -45,8 +43,6 @@ Weil sie zum Beispiel:
 - eine besondere Krankheit haben
 - aus einem anderen Land kommen
 - nicht gut sprechen
-
-</div>
 
 ----
 
