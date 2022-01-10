@@ -134,7 +134,7 @@
             >
               {{ level1.title }}
               <top-nav-arrow
-                v-if="index1 === currentIndex && hasLevel2(level1)"
+                v-if="!settings.accessible && index1 === currentIndex && hasLevel2(level1)"
               />
             </TopNavLink>
             <ul
@@ -176,7 +176,7 @@
                 </ul>
               </li>
             </ul>
-            <transition name="fade-menu">
+            <transition v-if="!settings.accessible" name="fade-menu">
               <div v-if="currentIndex === index1" aria-hidden="true">
                 <component
                   :is="navComp(navigation[index1])"
@@ -206,6 +206,7 @@
 import TopNavContentLevel3 from '~/components/TopNav/TopNavContentLevel3.vue'
 import TopNavContentLevel2 from '~/components/TopNav/TopNavContentLevel2.vue'
 import TopNavContentLevel1 from '~/components/TopNav/TopNavContentLevel1.vue'
+import settings from '~/config/settings.json'
 
 import helpers from '~/lib/helpers'
 
@@ -223,6 +224,7 @@ export default {
   data: () => ({
     currentIndex: null,
     isOpen: false,
+    settings,
   }),
   watch: {
     $route(to, from) {
