@@ -61,7 +61,7 @@
             aria-label="Startseite"
           >
             <Logo
-              class="flex flex-shrink-0 flex-grow-0 text-white mr-2 lg:mr-6"
+              class="flex shrink-0 grow-0 text-white mr-2 lg:mr-6"
               alt="Grenzen sind relativ e.V."
             />
           </nuxt-link>
@@ -103,7 +103,7 @@
           </button>
         </div>
         <ul
-          class="mt-12 md:mt-0 pt-1 flex-grow justify-center"
+          class="mt-12 md:mt-0 pt-1 grow justify-center"
           @mouseleave="closeDelayed"
           mouseenter="clearDelay"
           aria-label="Seiten"
@@ -160,13 +160,13 @@
                       class="text-sm text-primary-700 flex flex-col py-1"
                     >
                       <div class="flex">
-                        <arrow-right class="h-4 w-4 mr-1 flex-shrink-0" />
+                        <arrow-right class="h-4 w-4 mr-1 shrink-0" />
                         {{ level3.title }}
                       </div>
                       <!-- <ul v-if="level3 && level3.children && level3.children.length > 0" class="px-6 pb-2">
                         <li v-for="level4 in level3.children" :key="level4.title">
                           <TopNavLink :to="getNearestURL(level4)" :level="4" class="text-sm text-primary-700 flex py-1">
-                            <arrow-return class="h-2 w-2 mr-2 flex-shrink-0" />
+                            <arrow-return class="h-2 w-2 mr-2 shrink-0" />
                             {{ level4.title }}
                           </TopNavLink>
                         </li>

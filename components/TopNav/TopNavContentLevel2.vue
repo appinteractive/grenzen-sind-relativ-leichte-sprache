@@ -2,7 +2,7 @@
   <top-nav-shell class="flex">
     <ul>
       <li
-        class="group flex-shrink-0 flex-grow"
+        class="group shrink-0 grow"
         v-for="(level2, index2) in navigation.children"
         :key="level2.title"
       >

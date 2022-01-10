@@ -30,7 +30,7 @@
         </div> -->
       </div>
       <div class="flex">
-        <div class="text-sm flex flex-grow">
+        <div class="text-sm flex grow">
           {{ copyright }}
         </div>
         <social-icons class="flex justify-end items-center text-gray-300" />

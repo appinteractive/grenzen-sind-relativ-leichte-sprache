@@ -8,7 +8,7 @@
       <ul>
         <li v-for="parent in subMenu" :key="parent.title" class="flex items-start flex-col pb-1">
           <div class="sub-nav_main flex">
-            <arrow-right class="h-5 w-5 text-primary-500 mt-1 -mr-1 flex-shrink-0" aria-hidden="true" />
+            <arrow-right class="h-5 w-5 text-primary-500 mt-1 -mr-1 shrink-0" aria-hidden="true" />
             <div
               class="w-full text-md"
               :class="currentTitle === parent.title && 'font-semibold'"
@@ -25,7 +25,7 @@
           </div>
           <ul v-if="currentTitle === parent.title" class="sub-nav_sub">
             <li v-for="item in parent.children" :key="item.url" class="flex items-start pr-6">
-              <arrow-return class="h-4 w-4 text-primary-500 mt-1 pt-1 ml-4 flex-shrink-0" />
+              <arrow-return class="h-4 w-4 text-primary-500 mt-1 pt-1 ml-4 shrink-0" />
               <nuxt-link
                 :to="getNearestURL(item)"
                 class="block p-2 py-1 text-primary-700 text-sm hover:text-primary-900 hover:underline rounded"

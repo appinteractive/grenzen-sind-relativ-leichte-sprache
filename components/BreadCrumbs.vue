@@ -18,7 +18,7 @@
             d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"
           />
         </svg> -->
-        <arrow-right v-if="depth > 0" class="w-5 h-5 mx-1 text-gray-500 flex-shrink-0" />
+        <arrow-right v-if="depth > 0" class="w-5 h-5 mx-1 text-gray-500 shrink-0" />
         <nuxt-link
           v-if="breadCrumb.url"
           :to="breadCrumb.url"
