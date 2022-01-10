@@ -99,6 +99,16 @@ export default {
     '@nuxtjs/tailwindcss',
     '@nuxtjs/google-analytics',
     '@nuxtjs/sentry',
+    // TODO: Remove this function when tailwindcss-module adds support to v3
+    function () {
+      this.nuxt.hook('tailwindcss:config', (config) => {
+        // Move the legacy purge content array to the the new property
+        // https://tailwindcss.com/docs/upgrade-guide#configure-content-sources
+        config.content = config.purge.content
+        // Remove legacy purge option to disable the warning
+        config.purge = undefined
+      })
+    }
   ],
   googleAnalytics: {
     id: process.env.GOOGLE_ANALYTICS_ID,

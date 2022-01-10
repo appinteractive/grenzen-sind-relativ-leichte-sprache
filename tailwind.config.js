@@ -5,8 +5,6 @@
  ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
  */
 export default {
-  mode: 'jit',
-
   theme: {
     extend: {
       minWidth: {
@@ -74,14 +72,12 @@ export default {
     require('@tailwindcss/line-clamp'),
     require('@tailwindcss/aspect-ratio'),
   ],
-  purge: {
-    content: [
-      'content/**/*.{md,mdx}',
-      'components/**/*.{js,ts,vue}',
-      'layouts/**/*.vue',
-      'pages/**/*.vue',
-      'plugins/**/*.{js,ts}',
-      'nuxt.config.{js,ts}',
-    ],
-  },
+  content: [
+    'content/**/*.{md,mdx}',
+    'components/**/*.{js,ts,vue}',
+    'layouts/**/*.vue',
+    'pages/**/*.vue',
+    'plugins/**/*.{js,ts}',
+    'nuxt.config.{js,ts}',
+  ],
 }
