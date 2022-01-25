@@ -2,7 +2,7 @@
   <router-link
     v-if="to"
     v-slot="{ href, isActive, navigate }"
-    class="flex cursor-pointer"
+    class="flex cursor-pointer text-lg"
     tag="div"
     :to="to"
     :custom="true"
@@ -12,7 +12,7 @@
       :href="href"
       :class="[
         isActive || isActiveDeep
-          ? 'text-gray-900 font-semibold'
+          ? 'text-gray-900 font-semibold underline'
           : 'text-gray-500 hover:text-primary-700',
       ]"
       @click="navigate"
