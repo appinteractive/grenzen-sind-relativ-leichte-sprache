@@ -264,7 +264,8 @@
                 },
                 {
                   "title": "Konzert, Workshops & Talk mit der Mischa Gohlke Band",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md"
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md",
+                  "disabled": true
                 }
               ],
               "disabled": false
@@ -300,12 +301,14 @@
                 },
                 {
                   "title": "Kultur Digital Barrierefrei - Eine Initiative von handiclapped e.V. und MusicTech Germany",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/kultur-digital-barrierefrei-eine-initiative-von-handiclapped-e.v.und-musictech-germany.md"
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/kultur-digital-barrierefrei-eine-initiative-von-handiclapped-e.v.und-musictech-germany.md",
+                  "disabled": true
                 },
                 {
                   "title": "Filmfest Hamburg: Kommunikationskooperation \"Sound of Metal\"",
                   "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/filmfest-hamburg-kommunikationskooperation-sound-of-metal.md",
-                  "external": false
+                  "external": false,
+                  "disabled": true
                 },
                 {
                   "title": "MusikBüro St. Marien Osnabrück: Projektwoche \"Beethoven – mit allen Sinnen hören!\"",
