@@ -8,10 +8,24 @@ teaser: "/media/2020/10/social-banner-2020-5.jpg"
 ---
 # Kontakt
 
-„Grenzen sind relativ e.V.“
+Wenn du Fragen oder Ideen hast:
 
-c/o Mischa Gohlke  
-Wrangelstrasse 103  
+\- Schick uns einen Brief
+
+\- Oder schreib uns eine E-Mail.
+
+**Die Adresse ist:**
+
+Grenzen sind relativ e.V.
+
+Bei
+
+Mischa Gohlke
+
+Wrangelstrasse 103
+
 20253 Hamburg
+
+**Die E-Mail-Adresse ist:**
 
 E-Mail: mail@grenzensindrelativ.de
