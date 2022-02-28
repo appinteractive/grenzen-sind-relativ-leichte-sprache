@@ -8,22 +8,63 @@ alias: "/spenden.html"
 ---
 # Spenden
 
-Liebe Mit-Menschen,
+Liebe Menschen,
 
-seit dem Freistellungsbescheid vom 13.09.2016 ist „Grenzen sind relativ e.V.“ als gemeinnütziger Verein anerkannt und seit dem 01.01.2017 Mitglied beim „[Paritätischen Wohlfahrtsverband](https://www.paritaet-hamburg.de/startseite.html)“.
+**Grenzen sind relativ e.V**. ist Mitglied im Paritätischen Wohlfahrtsverband
 
-Wir setzen uns mit viel Herzblut für eine inklusive, integrale und friedliche Gesellschaft ein. Mit unseren Projekten, Veranstaltungen, Aktionen und Kampagnen wollen wir Impulse freisetzen, um verschiedenste Menschen, Netzwerke und Themenbereiche zusammen zu bringen, in den Dialog zu kommen und für eine „neue Beziehungskultur“ zu sensibilisieren und zu begeistern. Damit verbunden sind wir auch in den Aktionsfeldern Beratung & Coaching, Netzwerkarbeit und Öffentlichkeitsarbeit & Bewusstseinsbildung aktiv.
+Das ist ein großer Verein.
 
-Um diese vielfältigen Arbeiten weiterhin tätigen zu können und den wachsenden Anforderungen gerecht zu werden, sind wir dringend auf Spenden für folgende Kostenbereiche angewiesen: Miete & Büroausstattung für uns neues Vereinsbüro ab dem 1.10.2021, Personal- & Honorarkosten, Außenauftritt (Designs, Filme, usw.) sowie Eigenmittel bei unseren Projekten ([Kampagne 2. Inklusions- & Friedenssong](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/inklusions-und-friedenskampagnensong/allgemeine-infos-2-inklusion-friedenssong), etc.).
+Bei dem Verein machen
 
-Transparenz, Wirkung und Teamspirit sind für uns essenziell. Somit informieren wir unsere Spender regelmäßig über die aktuellen Projekte und Vereinsgeschehnisse. Darüber hinaus sind regelmäßige persönliche Treffen, gemeinsame Veranstaltungen sowie weitere Aktionen geplant.
+viele andere Vereine und Gruppen mit.
 
-Wir freuen uns über jede einmalige und/oder regelmäßige (monatliche) Spende! 🙂
+Alle helfen anderen Menschen.
 
-Spendenbescheinigungen können selbstverständlich ausgestellt werden.
+**Grenzen sind relativ e.V.** ist gemein-nützig
 
-Für Rückfragen, weitere Informationen, usw. stehen wir Dir natürlich gerne zur Verfügung.  
-Kontakt: Mischa Gohlke, mischa.gohlke@grenzensindrelativ.de
+Gemein-nützig bedeutet:
+
+\- Der Verein macht für alle Menschen etwas Gutes.
+
+\- Die Arbeit vom Verein hilft der Gesellschaft.
+
+\- Mitglieder vom Verein verdienen wenig Geld.
+
+\- Der Verein macht mit dem Geld
+
+nur Sachen für Menschen mit Behinderung.
+
+Damit sie auch Sachen machen können
+
+wie Menschen ohne Behinderung.
+
+Wir brauchen Geld für unsere Arbeit.
+
+Bitte: Helft uns mit einer Spende.
+
+Wir benutzen Spenden nur für unsere Projekte
+
+und für unsere Arbeit.
+
+Wir freuen uns wenn:
+
+\- Du uns einmal eine Spende gibst
+
+\- Oder jeden Monat eine Spende gibst
+
+Du bekommst von uns eine Spendenbescheinigung.
+
+Und wir sagen dir,
+
+was wir mit deiner Spende gemacht haben.
+
+Wenn du Fragen hast:
+
+Schreib eine Mail an Mischa Gohlke:
+
+mischa.gohlke@grenzensindrelativ.de
+
+Eine Mail ist ein Brief im Internet.
 
 <spenden-formular></spenden-formular>
 
