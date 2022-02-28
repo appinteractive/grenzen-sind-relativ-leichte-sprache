@@ -312,11 +312,13 @@
                 },
                 {
                   "title": "MusikBüro St. Marien Osnabrück: Projektwoche \"Beethoven – mit allen Sinnen hören!\"",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/marienkriche-osnabruck-beethoven-mit-allen-sinnen-horen.md"
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/marienkriche-osnabruck-beethoven-mit-allen-sinnen-horen.md",
+                  "disabled": true
                 },
                 {
                   "title": "Archiv",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/archiv-kooperationsprojekte.md"
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/archiv-kooperationsprojekte.md",
+                  "disabled": true
                 }
               ]
             }
@@ -332,7 +334,8 @@
               "children": [
                 {
                   "title": "Worum geht es?",
-                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-worum-geht-es.md"
+                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-worum-geht-es.md",
+                  "disabled": true
                 },
                 {
                   "title": "Projektinfo",
