@@ -343,11 +343,13 @@
                 },
                 {
                   "title": "Akteure: Band, Gastsänger & Protagonisten",
-                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-akteure.md"
+                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-akteure.md",
+                  "disabled": true
                 },
                 {
                   "title": "Videos & Fotos",
-                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos.md"
+                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-videos-fotos.md",
+                  "disabled": true
                 },
                 {
                   "title": "Review & Erfolge",
