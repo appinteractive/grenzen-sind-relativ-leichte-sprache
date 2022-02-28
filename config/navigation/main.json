@@ -353,11 +353,13 @@
                 },
                 {
                   "title": "Review & Erfolge",
-                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-review-erfolge.md"
+                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-review-erfolge.md",
+                  "disabled": true
                 },
                 {
                   "title": "AndersSein vereint Festivals",
-                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-anderssein-vereint-festivals.md"
+                  "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-anderssein-vereint-festivals.md",
+                  "disabled": true
                 }
               ]
             },
@@ -388,11 +390,13 @@
                 },
                 {
                   "title": "Kiel",
-                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-kiel.md"
+                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-kiel.md",
+                  "disabled": true
                 },
                 {
                   "title": "Hamburg",
-                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-hamburg.md"
+                  "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/musikunterricht-hamburg.md",
+                  "disabled": true
                 },
                 {
                   "title": "Bundesweit",
