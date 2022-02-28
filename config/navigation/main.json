@@ -249,11 +249,13 @@
                 },
                 {
                   "title": "Support Inklusion - Support mal anders!",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion.md"
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion.md",
+                  "disabled": true
                 },
                 {
                   "title": "Spektralkombüse",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md"
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md",
+                  "disabled": true
                 },
                 {
                   "title": "Aktionstage Inklusion/Frieden/Kultur in Schulen, Universitäten und anderen Einrichtungen",
