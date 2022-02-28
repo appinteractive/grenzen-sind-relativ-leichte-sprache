@@ -197,15 +197,18 @@
                 },
                 {
                   "title": "Review 3. Grenzen sind relativ Festival 2019",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/3-grenzen-sind-relativ-festival.md"
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/3-grenzen-sind-relativ-festival.md",
+                  "disabled": true
                 },
                 {
                   "title": "Review 2. Grenzen sind relativ Festival 2018",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/2-grenzen-sind-relativ-festival.md"
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/2-grenzen-sind-relativ-festival.md",
+                  "disabled": true
                 },
                 {
                   "title": "Review 1. Grenzen sind relativ Festival 2017",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/1-grenzen-sind-relativ-festival.md"
+                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/1-grenzen-sind-relativ-festival.md",
+                  "disabled": true
                 }
               ]
             },
