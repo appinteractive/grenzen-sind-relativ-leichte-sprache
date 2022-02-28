@@ -13,13 +13,33 @@ wide: false
 ---
 # AndersSein vereint – Inklusionssong für Deutschland
 
-![](/media/2020/10/online-plakat-anderssein-vereint.jpg)**AndersSein vereint** – Das ist Songtitel und Projektmotto zugleich. Mit dem „Inklusionssong für Deutschland“ ist eine bewegende Hymne entstanden, die für mehr selbstverständliches inklusives Miteinander steht und Menschen unterschiedlichster Backgrounds zusammenbringt. Die Essenz: einfach Mensch sein!
+![](/media/2020/10/online-plakat-anderssein-vereint.jpg)Der Verein macht ein Musik-Video mit vielen Menschen
 
-In der aufwendigen wie mitreissenden Musikvideoproduktion singen, grooven, rappen und gebärden die **mehr als 80 Protagonisten** von universeller Verbundenheit und Überwindung persönlicher wie gesellschaftlicher Grenzen.
+mit und ohne Behinderung.
 
-Aus der Komposition von Sängerin Katrin Wulff hat die Mischa Gohlke Band zusammen mit dem Produzenten Jan Philipp Kelber (Ina Müller, Christina Stürmer, usw.) einen eingängigen Crossover Sound kreiert, der mit den Stimmen von Orange Blue Sänger Volkan Baydar, Bluesröhre Jessy Martens, Rolli Rapper Graf Fidi und Marie Garroths sanfsten Soul bereichert wird.
+Das Musik-Video heißt: Anderssein vereint – Inklusions-Song für Deutschland
 
-Protagonisten wie Aktivist Michel Arriens, Tänzerin Kassandra Wedel, Buchautor Dirk C. Fleck, Sängerin Lilian Gold, Darstellerin Lara Hahnel und Schülerin Laila Wulfers machen zusammen mit dem Gebärdenchor „Hands up“ sowie vielen weiteren Mitwirkenden machen im Video den „Kreis rund“.
+Anderssein vereint bedeutet:
+
+Verschiedene Menschen mit und ohne Behinderung kommen zusammen.
+
+Das Wort Song ist Englisch
+
+und heißt auf Deutsch: Lied.
+
+Inklusions-Song ist ein Lied über Inklusion.
+
+Mehr als 80 Menschen kommen von überall,
+
+um das Lied gemeinsam zu singen.
+
+Das Musik-Video zeigt:
+
+\- die Vielfalt in der Gesellschaft
+
+\- Inklusion in der Gesellschaft.
+
+Der Verein benutzt Musik um Werbung für Inklusion zu machen.
 
 <gallery>
 
@@ -28,16 +48,6 @@ Protagonisten wie Aktivist Michel Arriens, Tänzerin Kassandra Wedel, Buchautor 
 ![](/media/2020/10/anderssein-vereint-band-_-gastsanger-_-foto-by-tom-roeler.jpg)![](/media/2020/10/lara-hahnel-_-4-inklusionsprotagonisten.jpg)![](/media/2020/10/komparsen-_-foto-by-tom-roeler.jpg)
 
 ![](/media/2020/10/anderssein-vereint-crew1-_-foto-by-tom-roeler.jpg)</gallery>
-
-Initiiert von „Grenzen sind relativ“ und dem an Taubheit grenzend hörgeschädigten Gitarristen Mischa Gohlke ist mit viel Eigenengagement und geringem Budget eine Produktion entstanden, welche die [„ganzheitlich gelebte Inklusion“](/anderssein-vereint-2/worum-geht-es.html) unmittelbar erfahrbar macht und eine Brücke schlägt zum jeweils anderen. Miteinander …
-
-Verbunden mit der **Kampagne „AndersSein vereint – Inklusionssong für Deutschland“** sollen Impulse freisetzt werden, um:
-
-a) mit der „ganzheitlich gelebten Inklusion“ in der Mitte der Gesellschaft anzukommen
-
-b.) verschiedenste Themen, Menschen, Künste, Projekte, Initiativen, Institutionen, Communities, usw. zusammen zu bringen und eine übergreifende Plattform zu schaffen
-
-c) über die mediale Kampagne hinaus, Basisarbeit zu leisten und konkrete zielführende Crossover-Projekte zu realisieren. Wie z.B. inklusive Festivals, Aktionstage Inklusion in Schulen/Universitäten, Netzwerktreffen, Inklusions-Tournee, usw.
 
 [![Crew AndersSein vereint](/media/2015/04/AndersSein-vereint-Crew1-_-Foto-by-Tom-Roeler-2.jpg "Foto by Tom Roeler")](/media/2015/04/AndersSein-vereint-Crew1-_-Foto-by-Tom-Roeler-2.jpg)
 
