@@ -12,20 +12,14 @@ wide: false
 ---
 # Kooperationsprojekte
 
-Du kannst uns gerne schreiben oder uns anrufen.
+Wir arbeiten zusammen mit:
 
-Wir freuen uns,
+\- anderen Menschen
 
-wenn du Lust hast uns zu unterstützen.
+\- anderen Vereinen
 
-Wir sind gerne für dich da, wenn du:
+\- anderen Einrichtungen
 
-\- Unsere Hilfe brauchst für dein Projekt.
+\- oder Gruppen.
 
-\- Unsere Hilfe brauchst für eine Veranstaltung.
-
-\- Oder unsere Hilfe brauchst für ein Fest.
-
-Wir können uns gerne zu einem Kaffee treffen
-
-und überlegen, wie wir zusammen-arbeiten.
+Weil wir uns viel für Inklusion einsetzen.
