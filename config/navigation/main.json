@@ -196,33 +196,45 @@
       "title": "Aktivitäten",
       "children": [
         {
+          "title": "AndersSein vereint - Inklusionssong für Deutschland",
+          "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo.md"
+        },
+        {
           "title": "Projekte & Veranstaltungen",
           "children": [
             {
               "title": "Grenzen sind relativ Festivals",
               "description": "Kulturfestival mit Musik, Tanz, Theater, Kunstaus- stellung, Network-Area & interaktiven Erlebniswelten",
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md",
-              "children": []
+              "children": [
+
+              ]
             },
             {
               "title": "Celebrate the music",
               "description": "Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. ",
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music.md",
-              "children": [],
+              "children": [
+
+              ],
               "disabled": false
             },
             {
               "title": "Mach Deine Veranstaltung mit uns!",
               "description": "GSR e.V - Veranstaltungsformate für Kultur- & Sportevents, Festivals, Stadtfeste, Kongresse, etc.",
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/mach-dein-event-mit-uns.md",
-              "children": [],
+              "children": [
+
+              ],
               "disabled": false
             },
             {
               "title": "Kooperationsprojekte",
               "description": "Zusammen mit anderen Vereinen, Initiativen & Institutionen realisieren wir verschiedenste Projekte, Veranstaltungen und Kampagnen.",
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte.md",
-              "children": []
+              "children": [
+
+              ]
             }
           ],
           "showInMainNavigation": true
