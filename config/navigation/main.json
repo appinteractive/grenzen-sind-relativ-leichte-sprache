@@ -201,34 +201,27 @@
             {
               "title": "Grenzen sind relativ Festivals",
               "description": "Kulturfestival mit Musik, Tanz, Theater, Kunstaus- stellung, Network-Area & interaktiven Erlebniswelten",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md",
               "children": []
             },
             {
-              "title": "Celebrate the music ",
+              "title": "Celebrate the music",
               "description": "Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. ",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music.md",
               "children": [],
               "disabled": false
             },
             {
               "title": "Mach Deine Veranstaltung mit uns!",
               "description": "GSR e.V - Veranstaltungsformate für Kultur- & Sportevents, Festivals, Stadtfeste, Kongresse, etc.",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/mach-dein-event-mit-uns.md",
               "children": [],
               "disabled": false
             },
             {
-              "title": "Interdisziplinäre Kulturarbeit",
-              "disabled": true,
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md",
-              "description": "Wissenstransfer, Vernetzung und Kooperationsvorhaben",
-              "children": []
-            },
-            {
               "title": "Kooperationsprojekte",
               "description": "Zusammen mit anderen Vereinen, Initiativen & Institutionen realisieren wir verschiedenste Projekte, Veranstaltungen und Kampagnen.",
-              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md",
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte.md",
               "children": []
             }
           ],

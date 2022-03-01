@@ -18,19 +18,12 @@ Wir helfen allen,
 die eine Inklusive Veranstaltung machen wollen.
 
 Inklusive Veranstaltung bedeutet:
-
-\- Menschen mit und ohne Behinderung machen die Veranstaltung.
-
-\- Alle können mitmachen.
-
-\- Alle können dabei sein.
+- Menschen mit und ohne Behinderung machen die Veranstaltung.
+- Alle können mitmachen.
+- Alle können dabei sein.
 
 Veranstaltungen sind zum Beispiel:
-
-\- Straßenfeste
-
-\- Festivals
-
-\- Konzerte
-
-\- Feste in einer Einrichtung
+- Straßenfeste
+- Festivals
+- Konzerte
+- Feste in einer Einrichtung

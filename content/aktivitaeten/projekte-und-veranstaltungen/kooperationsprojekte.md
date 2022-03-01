@@ -13,13 +13,9 @@ wide: false
 # Kooperationsprojekte
 
 Wir arbeiten zusammen mit:
-
-\- anderen Menschen
-
-\- anderen Vereinen
-
-\- anderen Einrichtungen
-
-\- oder Gruppen.
+- anderen Menschen
+- anderen Vereinen
+- anderen Einrichtungen
+- oder Gruppen.
 
 Weil wir uns viel für Inklusion einsetzen.
