@@ -4,16 +4,16 @@
       "title": "Rechtliches",
       "children": [
         {
+          "title": "Kontakt",
+          "page": "content/kontakt.md"
+        },
+        {
           "title": "Impressum",
           "page": "content/impressum.md"
         },
         {
           "title": "Datenschutz",
           "page": "content/datenschutz.md"
-        },
-        {
-          "title": "Kontakt",
-          "page": "content/kontakt.md"
         }
       ]
     },
@@ -30,6 +30,7 @@
         },
         {
           "title": "Stellenausschreibung",
+          "disabled": true,
           "page": "content/stellenausschreibung.md"
         }
       ]
