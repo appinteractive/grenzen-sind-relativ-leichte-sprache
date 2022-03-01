@@ -196,6 +196,10 @@
       "title": "Aktivitäten",
       "children": [
         {
+          "title": "Grenzen sind relativ Festivals",
+          "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md"
+        },
+        {
           "title": "Musikunterricht für Hörgeschädigte",
           "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md"
         },
