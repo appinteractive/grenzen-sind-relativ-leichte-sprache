@@ -24,7 +24,7 @@
             </div>
           </div>
           <ul v-if="currentTitle === parent.title" class="sub-nav_sub">
-            <li v-for="item in parent.children" :key="item.url" class="flex items-start pr-6">
+            <li v-for="item in (parent.children || []).filter(s => !s.hidden)" :key="item.url" class="flex items-start pr-6">
               <arrow-return class="h-4 w-4 text-primary-500 mt-1 pt-1 ml-4 shrink-0" />
               <nuxt-link
                 :to="getNearestURL(item)"

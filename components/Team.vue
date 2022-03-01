@@ -3,6 +3,7 @@
     <div class="" :key="k">
       <div v-for="area in items" :key="area.title">
         <h3 class="pt-6 sm:!-mb-4">{{ area.title }}</h3>
+        <p v-if="area.description" class="pt-4 -mb-4 pb-0 leading-snug" v-html="area.description.replace(/\n/g, '<br />')" />
         <div
           class="
             space-y-6
@@ -12,12 +13,12 @@
           "
         >
           <div v-for="person in area.children" :key="person.name">
-            <router-link :to="person.path" class="!no-underline">
+            <!-- <router-link :to="person.path" class="!no-underline"> -->
               <div
                 class="
                   space-y-4
                   md:space-y-0
-                  sm:grid sm:grid-cols-3 sm:items-start sm:gap-6
+                  sm:items-start sm:gap-6
                   group
                   px-4
                   md:px-0
@@ -33,7 +34,7 @@
                 <div class="sm:col-span-2 pt-6 sm:pt-0 md:pt-2">
                   <div class="space-y-4">
                     <div>
-                      <h4 class="group-hover:!underline !leading-tight">
+                      <h4 class="!leading-tight">
                         {{ person.title }}
                       </h4>
                       <!-- <p class="text-indigo-600">{{ person.role }}</p> -->
@@ -42,14 +43,12 @@
                       <p
                         class="
                           text-gray-500
-                          line-clamp-3
                           text-base
                           font-normal
                           leading-snug
                         "
-                      >
-                        {{ person.description }}
-                      </p>
+                        v-html="person.description.replace(/\n/g, '<br />')"
+                      />
                     </div>
                     <!-- <div class="flex space-x-5">
                       <div>
@@ -72,7 +71,7 @@
                   </div>
                 </div>
               </div>
-            </router-link>
+            <!-- </router-link> -->
           </div>
         </div>
       </div>

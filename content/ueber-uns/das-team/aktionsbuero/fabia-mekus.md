@@ -1,7 +1,14 @@
 ---
 teaser: '/media/2021/06/fabia-mekus.jpg'
 title: 'Fabia Mekus'
-description: 'Kulturmanagement, Projekt- & Produktionsleitung und Fundraising'
+description: "Fabia unterstützt Mischa dabei.\n\n
+  Zum Beispiel:\n\n
+  - Sie hilft bei Veranstaltungen.\n
+  - Sie hilft bei Projekten.\n
+  - Sie besorgt Geld für den Verein.\n\n
+  Das bedeutet: Sie sucht woher der Verein eine Förderung durch Geld bekommen kann.\n\n
+  Denn der Verein braucht viel Geld, um seine Ziele zu erreichen.
+"
 wide: false
 
 ---

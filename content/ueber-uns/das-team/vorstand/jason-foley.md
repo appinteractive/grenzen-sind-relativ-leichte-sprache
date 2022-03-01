@@ -1,7 +1,7 @@
 ---
 teaser: "/media/2014/07/Jason-Foley.jpg"
 title: Jason Foley
-description: Schriftführer, Musiker, Dipl. Pädagoge und Berufsschullehrer
+description: "Jason ist Schriftführer.\nEr schreibt die Berichte über die Treffen vom Verein"
 alias: ''
 wide: false
 

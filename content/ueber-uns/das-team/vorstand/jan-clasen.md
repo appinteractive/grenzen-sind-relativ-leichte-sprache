@@ -1,7 +1,7 @@
 ---
 teaser: "/media/2014/07/IMG_2279.jpeg"
 title: Jan Clasen
-description: '2. Vorsitzender, Projektleiter, Produzent, Kulturmanager und Veranstalter '
+description: 'Jan ist Vorsitzender 2.'
 alias: ''
 wide: false
 

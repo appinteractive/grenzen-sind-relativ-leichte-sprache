@@ -1,7 +1,7 @@
 ---
 teaser: "/media/2016/07/markus-riemann-foto.1024x1024.jpg"
 title: Markus Riemann
-description: 1. Vorsitzender, Kulturmanager, Moderator und Klubbetreiber
+description: Markus ist Vorsitzender 1.Klubbetreiber
 alias: ''
 wide: false
 

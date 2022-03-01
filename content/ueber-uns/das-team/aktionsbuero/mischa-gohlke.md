@@ -1,7 +1,13 @@
 ---
 teaser: "/media/2020/06/mischa-profil.jpg"
 title: Mischa Gohlke
-description: 'Initiator, Leitung, Kultur- & Medienmanagement und strategische Konzeptentwicklung '
+description: "Mischa hat den Verein gegründet.\n\n
+  Er leitet auch den Verein.\n\n
+  Er überlegt sich neue Ideen.\n\n
+  Er erzählt was der Verein macht:\n\
+  - In den Zeitungen\n
+  - im Fernsehen\n
+  - und im Internet."
 alias: ''
 wide: false
 

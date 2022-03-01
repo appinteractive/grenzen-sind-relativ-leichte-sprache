@@ -1,7 +1,7 @@
 ---
 teaser: "/media/2021/05/rudi-duttschke-002.jpg"
 title: Andreas 'Rudi' Dutschke
-description: Autor & Redakteur
+description: Andreas schreibt die Geschichten für den Film.
 alias: ''
 wide: false
 

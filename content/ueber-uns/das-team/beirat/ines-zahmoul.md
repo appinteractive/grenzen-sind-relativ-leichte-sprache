@@ -1,7 +1,7 @@
 ---
 teaser: "/media/2019/04/Ines-Zahmoul-Foto.jpeg"
 title: Inés Zahmoul
-description: Coach, Dozentin, Sängerin, Schauspielerin und ein leidenschaftlicher
+description: Inés ist Sängerin.
   Mensch
 alias: ''
 wide: false

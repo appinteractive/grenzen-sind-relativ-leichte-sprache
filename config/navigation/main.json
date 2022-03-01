@@ -5,10 +5,11 @@
       "children": [
         {
           "title": "Mission & Vision",
-          "page": "content/ueber-uns/mission-und-vision.md"
+          "page": "content/ueber-uns/mission-und-vision.md",
+          "disabled": true
         },
         {
-          "title": "Grenzen sind relativ e.V. - Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden",
+          "title": "Grenzen sind relativ e.V.",
           "page": "content/ueber-uns/info.md"
         },
         {
@@ -22,6 +23,8 @@
           "children": [
             {
               "title": "Aktionsbüro",
+              "description": null,
+              "hidden": true,
               "children": [
                 {
                   "title": "Mischa Gohlke",
@@ -45,6 +48,8 @@
             },
             {
               "title": "Filmproduktion",
+              "description": "Der Verein macht Filme über Inklusion.",
+              "hidden": true,
               "children": [
                 {
                   "title": "Fabian Köhler",
@@ -73,6 +78,8 @@
             },
             {
               "title": "Vorstand",
+              "description": "Im Vorstand vom Verein sind 3 Personen.",
+              "hidden": true,
               "children": [
                 {
                   "title": "Markus Riemann",
@@ -90,6 +97,8 @@
             },
             {
               "title": "Beirat",
+              "description": "Der Beirat hilft dem Verein durch Beratung.\nIn dem Beirat sind Frauen und Männer mit und ohne Behinderung.\nDas ist Vielfalt.\nVielfalt ist für den Verein wichtig.",
+              "hidden": true,
               "children": [
                 {
                   "title": "Raul Krauthausen",
@@ -116,6 +125,7 @@
             },
             {
               "title": "Streetteam",
+              "description": null,
               "children": [
                 {
                   "title": "Barbara Wetzer",
@@ -147,6 +157,7 @@
             },
             {
               "title": "Blog",
+              "hidden": true,
               "children": [
                 {
                   "title": "Grenzen sind relativ – Musik, Hören und Inklusion ",
@@ -190,137 +201,35 @@
             {
               "title": "Grenzen sind relativ Festivals",
               "description": "Kulturfestival mit Musik, Tanz, Theater, Kunstaus- stellung, Network-Area & interaktiven Erlebniswelten",
-              "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md"
-                },
-                {
-                  "title": "Review 3. Grenzen sind relativ Festival 2019",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/3-grenzen-sind-relativ-festival.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Review 2. Grenzen sind relativ Festival 2018",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/2-grenzen-sind-relativ-festival.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Review 1. Grenzen sind relativ Festival 2017",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/1-grenzen-sind-relativ-festival.md",
-                  "disabled": true
-                }
-              ]
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos.md",
+              "children": []
             },
             {
               "title": "Celebrate the music ",
               "description": "Eine Veranstaltungsreihe mit Workshops, Begegnungen und Konzerten. ",
-              "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md"
-                },
-                {
-                  "title": "Dozenten-Team & Workshops",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dozenten-team-workshops.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Veranstaltungstermine",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Dokumentation",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/dokumentation.md",
-                  "disabled": true
-                }
-              ],
-              "external": false,
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/allgemeine-infos-erlebnistage-inklusion.md",
+              "children": [],
               "disabled": false
             },
             {
               "title": "Mach Deine Veranstaltung mit uns!",
               "description": "GSR e.V - Veranstaltungsformate für Kultur- & Sportevents, Festivals, Stadtfeste, Kongresse, etc.",
-              "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md"
-                },
-                {
-                  "title": "Support Inklusion - Support mal anders!",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/support-inklusion.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Spektralkombüse",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Aktionstage Inklusion/Frieden/Kultur in Schulen, Universitäten und anderen Einrichtungen",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/aktionstage-inklusion-frieden-kultur.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Konzert, Workshops & Talk mit der Mischa Gohlke Band",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band.md",
-                  "disabled": true
-                }
-              ],
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/infos-veranstaltungsformate-fur-dein-event.md",
+              "children": [],
               "disabled": false
             },
             {
               "title": "Interdisziplinäre Kulturarbeit",
+              "disabled": true,
               "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md",
               "description": "Wissenstransfer, Vernetzung und Kooperationsvorhaben",
-              "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/allgemein.md"
-                },
-                {
-                  "title": "PDF Projektergebnisse & weitere VÖ",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/pdf-projektergebnisse-and-weitere-v-oe.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Filmproduktionen “Kultur von allen”",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/interdisziplinaere-kulturarbeit/filmproduktionen-kultur-von-allen.md",
-                  "disabled": true
-                }
-              ]
+              "children": []
             },
             {
               "title": "Kooperationsprojekte",
               "description": "Zusammen mit anderen Vereinen, Initiativen & Institutionen realisieren wir verschiedenste Projekte, Veranstaltungen und Kampagnen.",
-              "children": [
-                {
-                  "title": "Allgemeine Infos",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md"
-                },
-                {
-                  "title": "Kultur Digital Barrierefrei - Eine Initiative von handiclapped e.V. und MusicTech Germany",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/kultur-digital-barrierefrei-eine-initiative-von-handiclapped-e.v.und-musictech-germany.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Filmfest Hamburg: Kommunikationskooperation \"Sound of Metal\"",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/filmfest-hamburg-kommunikationskooperation-sound-of-metal.md",
-                  "external": false,
-                  "disabled": true
-                },
-                {
-                  "title": "MusikBüro St. Marien Osnabrück: Projektwoche \"Beethoven – mit allen Sinnen hören!\"",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/marienkriche-osnabruck-beethoven-mit-allen-sinnen-horen.md",
-                  "disabled": true
-                },
-                {
-                  "title": "Archiv",
-                  "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/archiv-kooperationsprojekte.md",
-                  "disabled": true
-                }
-              ]
+              "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte/allgemeine-infos-kooperationsprojekte.md",
+              "children": []
             }
           ],
           "showInMainNavigation": true

@@ -12,10 +12,8 @@ Liebe Menschen,
 
 **Grenzen sind relativ e.V**. ist Mitglied im Paritätischen Wohlfahrtsverband
 
-Das ist ein großer Verein.
-
-Bei dem Verein machen
-
+Das ist ein großer Verein.  
+Bei dem Verein machen  
 viele andere Vereine und Gruppen mit.
 
 Alle helfen anderen Menschen.
@@ -24,42 +22,32 @@ Alle helfen anderen Menschen.
 
 Gemein-nützig bedeutet:
 
-\- Der Verein macht für alle Menschen etwas Gutes.
-
-\- Die Arbeit vom Verein hilft der Gesellschaft.
-
-\- Mitglieder vom Verein verdienen wenig Geld.
-
-\- Der Verein macht mit dem Geld
+- Der Verein macht für alle Menschen etwas Gutes.
+- Die Arbeit vom Verein hilft der Gesellschaft.
+- Mitglieder vom Verein verdienen wenig Geld.
+- Der Verein macht mit dem Geld
 
 nur Sachen für Menschen mit Behinderung.
 
-Damit sie auch Sachen machen können
-
+Damit sie auch Sachen machen können  
 wie Menschen ohne Behinderung.
 
-Wir brauchen Geld für unsere Arbeit.
-
+Wir brauchen Geld für unsere Arbeit.  
 Bitte: Helft uns mit einer Spende.
 
-Wir benutzen Spenden nur für unsere Projekte
-
+Wir benutzen Spenden nur für unsere Projekte  
 und für unsere Arbeit.
 
 Wir freuen uns wenn:
-
-\- Du uns einmal eine Spende gibst
-
-\- Oder jeden Monat eine Spende gibst
+- Du uns einmal eine Spende gibst
+- Oder jeden Monat eine Spende gibst
 
 Du bekommst von uns eine Spendenbescheinigung.
 
-Und wir sagen dir,
-
+Und wir sagen dir,  
 was wir mit deiner Spende gemacht haben.
 
-Wenn du Fragen hast:
-
+Wenn du Fragen hast:  
 Schreib eine Mail an Mischa Gohlke:
 
 mischa.gohlke@grenzensindrelativ.de

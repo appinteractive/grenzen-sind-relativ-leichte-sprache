@@ -1,7 +1,7 @@
 ---
 teaser: "/media/2014/07/251_RolfEmmerich_cMEYER_ORIGINALS.jpg"
 title: Rolf Emmerich
-description: Kulturmanager, Festivalleiter Sommerblut - Festival der Multipolarkultur
+description: Rolf macht Kultur und Festivals.
 alias: ''
 wide: false
 

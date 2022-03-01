@@ -1,7 +1,7 @@
 ---
 teaser: "/media/2021/05/foto-fabian-kohler.jpeg"
 title: Fabian Köhler
-description: Regie, Kamera & Postproduktion
+description: Fabian macht die Filme mit der Kamera.
 alias: ''
 wide: false
 

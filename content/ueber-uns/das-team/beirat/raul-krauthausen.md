@@ -1,7 +1,7 @@
 ---
 teaser: "/media/2014/07/15019310509_7813e888fe_n.jpg"
 title: Raul Krauthausen
-description: Aktivist, Speaker, Moderator, Berater, Autor
+description: Raul macht sich stark für Inklusion und Barrierefreiheit.
 alias: ''
 wide: false
 
