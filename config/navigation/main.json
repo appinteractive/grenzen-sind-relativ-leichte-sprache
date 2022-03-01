@@ -196,6 +196,10 @@
       "title": "Aktivitäten",
       "children": [
         {
+          "title": "Musikunterricht für Hörgeschädigte",
+          "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md"
+        },
+        {
           "title": "AndersSein vereint - Inklusionssong für Deutschland",
           "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo.md"
         },
