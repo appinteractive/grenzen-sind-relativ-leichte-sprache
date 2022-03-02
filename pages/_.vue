@@ -34,22 +34,26 @@ export default {
     $content,
     store,
     route,
-    error
+    error,
+    redirect,
   }) {
     const path = `/${params.pathMatch || 'index'}`
     const page = await $content(path)
       .fetch()
       .catch((err) => {
-        error({ statusCode: 404, message: 'Page not found' })
+        // error({ statusCode: 404, message: 'Page not found' })
+        return redirect(404, '/')
       })
 
-    if (Array.isArray(page)) {
-      throw error({ statusCode: 404, message: 'Page not found' })
+    if (Array.isArray(page) || !page?.body) {
+      // throw error({ statusCode: 404, message: 'Page not found' })
+      return redirect(404, '/')
     }
 
     const mainNav = store.getters['navigation/mainNav']
 
     let breadCrumbs = store.getters['navigation/breadCrumbs'](route)
+
     const crumbAnomaly =
       breadCrumbs.length > 1 && breadCrumbs[breadCrumbs.length - 2].children
     const off = crumbAnomaly ? 2 : 1
