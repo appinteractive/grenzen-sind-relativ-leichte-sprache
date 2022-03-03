@@ -2,30 +2,10 @@
   "teasers": true,
   "slides": [
     {
-      "page": [
-
-      ],
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md",
       "title": "Grenzen sind relativ Festivals",
       "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/ueber-uns/info.md",
-      "title": "Der Verein",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/ueber-uns/das-team/alle.md",
-      "title": "Das Team",
-      "subtitle": "",
-      "image": ""
-    },
-    {
-      "page": "content/media/videos.md",
-      "title": "Medien",
-      "subtitle": "",
-      "image": ""
+      "image": "/media/2019/08/Plakat_OnlineA2_GSR3.jpg"
     }
   ],
   "autoplay": false,
