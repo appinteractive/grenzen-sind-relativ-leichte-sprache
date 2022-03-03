@@ -2,6 +2,14 @@
   "teasers": true,
   "slides": [
     {
+      "page": [
+
+      ],
+      "title": "Grenzen sind relativ Festivals",
+      "subtitle": "",
+      "image": ""
+    },
+    {
       "page": "content/ueber-uns/info.md",
       "title": "Der Verein",
       "subtitle": "",
