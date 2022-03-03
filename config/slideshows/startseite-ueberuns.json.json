@@ -1,0 +1,26 @@
+{
+  "teasers": true,
+  "slides": [
+    {
+      "page": "content/ueber-uns/info.md",
+      "title": "Der Verein",
+      "subtitle": "",
+      "image": ""
+    },
+    {
+      "page": "content/ueber-uns/das-team/alle.md",
+      "title": "Das Team",
+      "subtitle": "",
+      "image": ""
+    },
+    {
+      "page": "content/media/videos.md",
+      "title": "Medien",
+      "subtitle": "",
+      "image": ""
+    }
+  ],
+  "autoplay": false,
+  "delay": null,
+  "title": "startseite-ueberuns.json"
+}
