@@ -2,6 +2,12 @@
   "teasers": true,
   "slides": [
     {
+      "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo.md",
+      "title": "AndersSein vereint - Inklusionssong für Deutschland",
+      "subtitle": "",
+      "image": "/media/2020/10/online-plakat-anderssein-vereint.jpg"
+    },
+    {
       "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md",
       "title": "Grenzen sind relativ Festivals",
       "subtitle": "",
