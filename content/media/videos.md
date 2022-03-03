@@ -1,6 +1,7 @@
 ---
 title: Videos
 description: TV Berichte, Filme, Interviews und mehr
+teaser: "/media/2020/10/neu1.jpg"
 
 ---
 # Videos
