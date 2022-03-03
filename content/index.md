@@ -21,13 +21,19 @@ seite:
 
 ## Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden
 
-Unser (Der) Verein heißt: Grenzen sind relativ e.V. Die Abkürzung ist: GSR e.V. e.V. ist die Abkürzung für: eingetragener Verein.
+Unser (Der) Verein heißt: Grenzen sind relativ e.V. Die Abkürzung ist: GSR e.V. ... e.V. ist die Abkürzung für: eingetragener Verein.
 
 Grenzen sind relativ bedeutet: Es gibt viele Arten von Grenzen.
 
 Eine Grenze ist ein Hindernis.
 
-Aber man kann auch Grenzen überwinden. Grenzen trennen Länder Menschen haben auch Grenzen Weil sie zum Beispiel:
+Aber man kann auch Grenzen überwinden. 
+
+Grenzen trennen Länder.
+
+ Menschen haben auch Grenzen.
+
+ Weil sie zum Beispiel:
 
 * eine Behinderung haben
 * eine besondere Krankheit haben
