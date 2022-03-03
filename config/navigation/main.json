@@ -173,7 +173,8 @@
         },
         {
           "title": "Zitate",
-          "page": "content/ueber-uns/zitate.md"
+          "page": "content/ueber-uns/zitate.md",
+          "disabled": true
         },
         {
           "title": "Kontakt",
