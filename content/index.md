@@ -41,6 +41,8 @@ Aber man kann auch Grenzen überwinden. Grenzen trennen Länder Menschen haben a
 
 ***
 
+<slideshow class="wide" name="startseite-ueberuns"></slideshow>
+
 <slideshow class="wide" name="startseite-aktivitaeten"></slideshow>
 
 <video-gallery name="startseite-video-galerie"></video-galerie>
