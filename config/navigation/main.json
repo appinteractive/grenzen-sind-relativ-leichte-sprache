@@ -196,6 +196,10 @@
       "title": "Aktivitäten",
       "children": [
         {
+          "title": "AndersSein vereint - Inklusionssong für Deutschland",
+          "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo.md"
+        },
+        {
           "title": "Grenzen sind relativ Festivals",
           "page": "content/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals.md"
         },
@@ -204,8 +208,11 @@
           "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md"
         },
         {
-          "title": "AndersSein vereint - Inklusionssong für Deutschland",
-          "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo.md"
+          "children": [
+
+          ],
+          "title": "Kooperationsprojekte",
+          "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte.md"
         }
       ],
       "showInMainNavigation": true
