@@ -1,17 +1,16 @@
 ---
 title: Grenzen sind relativ e.V.
-description: 'Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden. Mit verschiedensten
-  Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops,
-  Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen
-  setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein. '
-teaser: "/media/2020/10/social-banner-2020-5.jpg"
+description: 'Unser (Der) Verein heißt: Grenzen sind relativ e.V. Die Abkürzung ist:
+  GSR e.V. ... e.V. ist die Abkürzung für: eingetragener Verein. Grenzen sind relativ
+  bedeutet: Es gibt viele Arten von Grenzen.'
+teaser: "/media/2022/04/gsr-header.svg"
 wide: true
 seite:
 - template: seite
 - template: slideshow
 
 ---
-![Grenzen sind relativ e.V. – Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden](/media/2020/10/social-banner-2020-5.jpg)
+![](/media/2022/04/gsr-header.svg)
 
 ***
 
@@ -19,7 +18,7 @@ seite:
 
 # Grenzen sind relativ e.V.
 
-## Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden
+## Aktionsbüro für eine multipolare Gesellschaftskultur
 
 Unser (Der) Verein heißt: Grenzen sind relativ e.V. Die Abkürzung ist: GSR e.V. ... e.V. ist die Abkürzung für: eingetragener Verein.
 
@@ -27,13 +26,13 @@ Grenzen sind relativ bedeutet: Es gibt viele Arten von Grenzen.
 
 Eine Grenze ist ein Hindernis.
 
-Aber man kann auch Grenzen überwinden. 
+Aber man kann auch Grenzen überwinden.
 
 Grenzen trennen Länder.
 
- Menschen haben auch Grenzen.
+Menschen haben auch Grenzen.
 
- Weil sie zum Beispiel:
+Weil sie zum Beispiel:
 
 * eine Behinderung haben
 * eine besondere Krankheit haben
