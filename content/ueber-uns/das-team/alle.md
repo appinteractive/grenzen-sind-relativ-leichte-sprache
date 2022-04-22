@@ -1,6 +1,6 @@
 ---
 title: Das Team
-description: Das sind wir
+description: Das "Grenzen sind relativ e.V." - Team stellt sich vor.
 alias: "/ueber-uns/gsr-team.html"
 overview: true
 teaser: "/media/2020/10/anderssein-vereint-massenszene1-_-foto-by-tom-roeler.jpg"
