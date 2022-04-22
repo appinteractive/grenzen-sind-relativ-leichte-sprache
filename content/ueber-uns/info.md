@@ -1,7 +1,7 @@
 ---
 title: Grenzen sind relativ e.V.
-description: 'Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden '
-teaser: "/media/2020/10/social-banner-2020-5.jpg"
+description: Aktionsbüro für eine multipolare Gesellschaftskultur
+teaser: "/media/2022/04/gsr-header.svg"
 
 ---
 # Grenzen sind relativ e.V.
