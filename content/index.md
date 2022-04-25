@@ -16,10 +16,6 @@ seite:
 
 <div class="md:text-center">
 
-# Grenzen sind relativ e.V.
-
-## Aktionsbüro für eine multipolare Gesellschaftskultur
-
 Unser (Der) Verein heißt: Grenzen sind relativ e.V. Die Abkürzung ist: GSR e.V. ... e.V. ist die Abkürzung für: eingetragener Verein.
 
 Grenzen sind relativ bedeutet: Es gibt viele Arten von Grenzen.
