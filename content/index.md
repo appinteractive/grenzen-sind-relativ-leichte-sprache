@@ -52,6 +52,6 @@ Weil sie zum Beispiel:
 
 <video-gallery name="startseite-video-galerie"></video-galerie>
 
-**Gefördert durch**
+**Diese Webseite wurde ermöglicht durch** 
 
 ![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)
