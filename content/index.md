@@ -51,3 +51,7 @@ Weil sie zum Beispiel:
 <slideshow class="wide" name="startseite-aktivitaeten"></slideshow>
 
 <video-gallery name="startseite-video-galerie"></video-galerie>
+
+**Gefördert durch**
+
+![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)
