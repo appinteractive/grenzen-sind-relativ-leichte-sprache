@@ -150,9 +150,7 @@
             },
             {
               "title": "Pressespiegel",
-              "children": [
-
-              ],
+              "children": [],
               "page": "content/media/pressespiegel-kompakt.md"
             },
             {
@@ -213,9 +211,7 @@
           "page": "content/aktivitaeten/projekte-und-veranstaltungen/mach-dein-event-mit-uns.md"
         },
         {
-          "children": [
-
-          ],
+          "children": [],
           "title": "Kooperationsprojekte",
           "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte.md"
         }
@@ -233,6 +229,7 @@
     },
     {
       "title": "Spenden",
+      "button": true,
       "page": "content/spenden.md"
     }
   ]

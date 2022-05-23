@@ -65,21 +65,9 @@
               alt="Grenzen sind relativ e.V."
             />
           </nuxt-link>
-          <social-icons
-            class="
-              absolute
-              md:hidden
-              right-0
-              flex
-              justify-end
-              items-center
-              p-4
-              text-gray-700
-            "
-            aria-hidden="true"
-          />
+
           <button
-            class="flex appearance-none md:hidden absolute left-0 p-4"
+            class="flex appearance-none md:hidden absolute right-0 p-4"
             @click="isOpen = !isOpen"
             aria-label="Navigation öffnen"
           >
@@ -134,7 +122,11 @@
             >
               {{ level1.title }}
               <top-nav-arrow
-                v-if="!settings.accessible && index1 === currentIndex && hasLevel2(level1)"
+                v-if="
+                  !settings.accessible &&
+                  index1 === currentIndex &&
+                  hasLevel2(level1)
+                "
               />
             </TopNavLink>
             <ul
@@ -197,6 +189,38 @@
             text-gray-700
           "
         />
+        <ul
+          class="!ml-8 justify-end items-center"
+          @mouseleave="closeDelayed"
+          mouseenter="clearDelay"
+          aria-label="Seiten"
+          role="menubar"
+          :class="!isOpen ? 'sr-only lg:not-sr-only flex' : 'pt-12 pb-24 px-8'"
+        >
+          <template v-for="level1 in navigation">
+            <li class="relative" v-if="level1.button" :key="level1.title">
+              <NuxtLink
+                :to="getNearestURL(level1)"
+                class="
+                  level1
+                  font-medium
+                  tracking-wide
+                  bg-[#4072B2]
+                  !text-white
+                  !font-bold
+                  rounded
+                  flex
+                  px-4
+                  py-2.5
+                  relative
+                "
+                role="menuitem"
+              >
+                {{ level1.title }}
+              </NuxtLink>
+            </li>
+          </template>
+        </ul>
       </div>
     </div>
   </nav>
