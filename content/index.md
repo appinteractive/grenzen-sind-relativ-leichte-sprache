@@ -1,18 +1,17 @@
 ---
 title: Grenzen sind relativ e.V.
-description: 'Unser (Der) Verein heißt: Grenzen sind relativ e.V. Die Abkürzung ist:
+description:
+  'Unser (Der) Verein heißt: Grenzen sind relativ e.V. Die Abkürzung ist:
   GSR e.V. ... e.V. ist die Abkürzung für: eingetragener Verein. Grenzen sind relativ
   bedeutet: Es gibt viele Arten von Grenzen.'
-teaser: "/media/2022/04/gsr-header.svg"
+teaser: '/teaser.jpg'
 wide: true
 seite:
-- template: seite
-- template: slideshow
-
+  - template: seite
+  - template: slideshow
 ---
-![](/media/2022/04/gsr-header.svg)
 
-***
+<img src="/teaser.jpg" alt="Grenzen sind relativ e.V." class="w-full !mx-auto !-mt-8" />
 
 <div class="md:text-center">
 
@@ -30,17 +29,18 @@ Menschen haben auch Grenzen.
 
 Weil sie zum Beispiel:
 
-* eine Behinderung haben
-* eine besondere Krankheit haben
-* aus einem anderen Land kommen
-* nicht gut sprechen
+- eine Behinderung haben
+- eine besondere Krankheit haben
+- aus einem anderen Land kommen
+- nicht gut sprechen
 
 > Hebt man den Blick, so sieht man keine Grenzen.
 >
 > > Aus Japan
+> >
 > > </div>
 
-***
+---
 
 <slideshow class="wide" name="startseite-ueberuns"></slideshow>
 
@@ -48,6 +48,6 @@ Weil sie zum Beispiel:
 
 <video-gallery name="startseite-video-galerie"></video-galerie>
 
-**Diese Webseite wurde ermöglicht durch** 
+**Diese Webseite wurde ermöglicht durch**
 
 ![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)

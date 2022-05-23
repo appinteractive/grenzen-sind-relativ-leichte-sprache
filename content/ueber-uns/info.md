@@ -1,11 +1,12 @@
 ---
 title: Grenzen sind relativ e.V.
-description: 'Unser (Der) Verein heißt: Grenzen sind relativ e.V. Die Abkürzung ist:
+description:
+  'Unser (Der) Verein heißt: Grenzen sind relativ e.V. Die Abkürzung ist:
   GSR e.V. ... e.V. ist die Abkürzung für: eingetragener Verein. Grenzen sind relativ
   bedeutet: Es gibt viele Arten von Grenzen.'
-teaser: "/media/2022/04/gsr-header.svg"
-
+teaser: '/teaser.jpg'
 ---
+
 # Grenzen sind relativ e.V.
 
 ## Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden
@@ -24,6 +25,7 @@ Menschen haben auch Grenzen.
 Weil sie eine Behinderung haben.
 
 Zum Beispiel:
+
 - Sie sitzen im Rollstuhl.
 - Sie können nicht sehen.
 - Sie können nicht hören.
@@ -36,6 +38,7 @@ Der Verein **Grenzen sind relativ e.V.** hilft Menschen mit Behinderung,
 bei Veranstaltungen dabei zu sein.
 
 Zum Beispiel bei:
+
 - Konzerten
 - Festen
 - Musik-Kursen
@@ -50,7 +53,7 @@ Mischa Gohlke hat den Verein **Grenzen sind relativ e.V.** gegründet.
 Mischa kann sehr schlecht hören.  
 Er hat eine Behinderung.
 
-Der Beruf von Mischa ist: Musik-machen.  
+Der Beruf von Mischa ist: Musik-machen.
 
 Es ist schwierig Musik zu machen,  
 wenn man schlecht hört.
@@ -74,6 +77,7 @@ Der Verein bringt alle Menschen zusammen.
 Der Verein macht Inklusion.
 
 Inklusion bedeutet:
+
 - Alle Menschen sollen überall dabei sein.
 - Alle Menschen haben die gleichen Rechte.
 - Alle Menschen können selbst bestimmen was sie wollen.

@@ -1,14 +1,29 @@
 <template>
   <div class="container mx-auto px-4 md:px-8 pt-6">
     <!-- <BreadCrumbs v-if="breadCrumbs.length > 1" :bread-crumbs="breadCrumbs" /> -->
-    <div class="relative flex flex-wrap lg:flex-no-wrap lg:flex-col-reverse flex-col">
+    <div
+      class="
+        relative
+        flex flex-wrap
+        lg:flex-no-wrap lg:flex-col-reverse
+        flex-col
+      "
+    >
       <article
         tabindex="-1"
-        class="w-full flex lg:justify-end xl:justify-center ml-auto pb-16 outline-none"
+        class="
+          w-full
+          flex
+          lg:justify-end
+          xl:justify-center
+          ml-auto
+          pb-16
+          outline-none
+        "
       >
         <nuxt-content
           :document="page"
-          class="prose prose-lg w-full break-words hyphens-auto"
+          class="prose prose-lg w-full"
           :class="classes"
         />
       </article>
@@ -26,17 +41,9 @@
 </template>
 
 <script>
-
 export default {
   middleware: 'redirect',
-  async asyncData({
-    params,
-    $content,
-    store,
-    route,
-    error,
-    redirect,
-  }) {
+  async asyncData({ params, $content, store, route, error, redirect }) {
     const path = `/${params.pathMatch || 'index'}`
     const page = await $content(path)
       .fetch()
@@ -62,26 +69,37 @@ export default {
     const currentTitle = lastCrumb ? lastCrumb.title : null
     const widePage = !!page?.wide
 
-    const { processSlideshow, processVideoGallery, processTeam } = require('~/lib/processing').default
+    const { processSlideshow, processVideoGallery, processTeam } =
+      require('~/lib/processing').default
     const processSlideshows = []
     const processVideoGalleries = []
     const processTeamComponents = []
     page.body.children.forEach((child, i) => {
       if (child.tag === 'slideshow') {
-        processSlideshows.push(new Promise((resolve) => {
-          resolve(processSlideshow(child.props.name, child.props, $content))
-        }))
+        processSlideshows.push(
+          new Promise((resolve) => {
+            resolve(processSlideshow(child.props.name, child.props, $content))
+          })
+        )
       } else if (child.tag === 'video-gallery') {
-        processVideoGalleries.push(new Promise((resolve) => {
-          resolve(processVideoGallery(child.props.name, child.props))
-        }))
+        processVideoGalleries.push(
+          new Promise((resolve) => {
+            resolve(processVideoGallery(child.props.name, child.props))
+          })
+        )
       } else if (child.tag === 'team') {
-        processTeamComponents.push(new Promise((resolve) => {
-          resolve(processTeam(child.props, mainNav, $content))
-        }))
+        processTeamComponents.push(
+          new Promise((resolve) => {
+            resolve(processTeam(child.props, mainNav, $content))
+          })
+        )
       }
     })
-    await Promise.all(processSlideshows, processVideoGalleries, processTeamComponents)
+    await Promise.all(
+      processSlideshows,
+      processVideoGalleries,
+      processTeamComponents
+    )
 
     return { page, breadCrumbs, subMenu, currentTitle, widePage }
   },
@@ -150,8 +168,8 @@ export default {
         classes.push('max-w-full md:max-w-2xl')
       }
       return classes.join(' ')
-    }
-  }
+    },
+  },
 }
 </script>
 
@@ -176,7 +194,7 @@ export default {
 
 .prose blockquote {
   @apply text-xl font-serif italic text-left pl-4 pr-2 border-none text-primary-600;
-  label: "Zitat";
+  label: 'Zitat';
 }
 .prose blockquote blockquote {
   @apply text-base -mt-6 text-right text-pink-800 not-italic;
