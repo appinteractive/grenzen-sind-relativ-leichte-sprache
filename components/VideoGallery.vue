@@ -1,7 +1,7 @@
 <template>
   <div>
     <div v-if="vids.length > 0">
-      <youtube :id="vids[current].videoId" :title="title" />
+      <youtube :id="vids[current].videoId.trim()" :title="title" />
     </div>
     <div
       class="grid gap-1 h-auto pt-1"
@@ -12,13 +12,19 @@
     >
       <div
         v-for="(vid, i) of vids"
-        :key="vid.videoId"
-        class="flex-1 relative pb-16/9 bg-black bg-center bg-cover cursor-pointer"
+        :key="vid.videoId.trim()"
+        class="
+          flex-1
+          relative
+          pb-16/9
+          bg-black bg-center bg-cover
+          cursor-pointer
+        "
         :class="[
           current === i && 'opacity-100',
           current !== i && 'opacity-50 hover:opacity-100',
         ]"
-        :style="`background-image: url(https://i.ytimg.com/vi/${vid.videoId}/mqdefault.jpg)`"
+        :style="`background-image: url(https://i.ytimg.com/vi/${vid.videoId.trim()}/mqdefault.jpg)`"
         @click="setVid(i)"
         @mouseenter="hover = i"
         @mouseout="hover = null"
