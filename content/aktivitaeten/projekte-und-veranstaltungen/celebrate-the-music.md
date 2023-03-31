@@ -113,13 +113,10 @@ Wie zum Beispiel mit:
 
 Menschen Bei CELEBRATE THE MUSIC:
 
-     . Lernen voneinander.
-
-     . Sprechen miteinander.
-
-     . Arbeiten zusammen.
-
-     . Und hören anderen Menschen zu.
+- Lernen voneinander.
+- Sprechen miteinander.
+- Arbeiten zusammen.
+- Und hören anderen Menschen zu.
 
 Denn bei CELEBRATE THE MUSIC ist der Mensch wichtig.
 
