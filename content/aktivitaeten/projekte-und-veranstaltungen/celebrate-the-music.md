@@ -74,6 +74,8 @@ Man sagt:
 
 Mischa ist Aktivist.
 
+
+
 Bei CELEBRATE THE MUSIC arbeiten viele Lehrer und Lehrerinnen.
 
 Die Lehrer nennt man Dozenten.
@@ -123,13 +125,10 @@ Denn bei CELEBRATE THE MUSIC ist der Mensch wichtig.
   
 CELEBRATE THE MUSIC findet statt :
 
-      . in Schulen
-
-      . in Universitäten 
-
-      . in Einrichtungen
-
-      . bei verschieden Festen.
+- in Schulen
+- in Universitäten 
+- in Einrichtungen
+- bei verschieden Festen.
 
 Du kannst in den Videos unten sehen,
 
@@ -146,8 +145,8 @@ Wir geben dir Tipps,
 
 damit noch mehr Menschen mitmachen.
 
-###   
-**1.	Workshops**
+ 
+1. Workshops
 
 Workshop ist ein englisches Wort.
 
@@ -159,13 +158,12 @@ Und machen gemeinsam Sachen.
 
 Zum Beispiel:
 
-• Sie lernen neue Dinge.
+- Sie lernen neue Dinge.
+- Sie reden über ein Thema.
+- Und dabei haben sie neue Ideen.
 
-• Sie reden über ein Thema.
 
-• Und dabei haben sie neue Ideen.
-
-**Workshop 1: Drum·circle**
+Workshop 1: Drum·circle
 
 Drum·circle ist Englisch. 
 
@@ -186,13 +184,13 @@ Dabei lernen sie Rhythmus.
 Und sie haben Spaß.
 
   
-**Workshop 2: Body Rhythm**
+Workshop 2: Body Rhythm
 
 Body Rhythm ist Englisch.
 
  Es bedeutet: Rhythmus vom Körper.
 
-                      Rhythmus ist die Dauer von Tönen in der Musik.
+  Rhythmus ist die Dauer von Tönen in der Musik.
 
 Du lernst Body Percussion bei Body Rhythm.
 
@@ -205,24 +203,21 @@ Das bedeutet: Töne werden mit Hilfe von deinem Körper erzeugt.
   
 Dabei brauchst du nur:
 
-      . deine Hände 
-
-      . deine Füße 
-
-      . und deine Stimme.
+- deine Hände 
+- deine Füße 
+- und deine Stimme.
 
   
  Du lernst bei  Body Rhythm : 
 
-     . Neue Bewegungen.
-
-     . Deinen Körper zu spüren, 
-
-      wenn du Musik hörst.
+- Neue Bewegungen.
+- Deinen Körper zu spüren, 
+- wenn du Musik hörst.
 
 Und du hast viel Spaß.
 
-**Workshop 3: Stimme & Chor**
+
+Workshop 3: Stimme & Chor
 
 Ein Chor ist eine Gruppe von Menschen.
 
@@ -234,15 +229,15 @@ Alle Menschen können beim Workshop mitmachen.
 
 Egal ob:
 
-   . Sie noch nie gesungen haben.
-
-   . Oder schon gut singen können.
+- Sie noch nie gesungen haben.
+- Oder schon gut singen können.
 
 Das Singen im Chor macht den Menschen Freude.
 
 Die Menschen fühlen sich verbunden.
 
-**Workshop 4: Band·training**
+
+Workshop 4: Band·training
 
 Band·training ist Englisch 
 
@@ -260,35 +255,37 @@ Du lernst mit der Band gut Musik zu machen.
 
 Du kannst Musik·Instrumente lernen
 
-        Wie zum Beispiel:
+ Wie zum Beispiel:
 
-    . Gitarre
+   - Gitarre
 
         . Das ist ein Zupf·instrument.
 
      . Schlagzeug
 
-               . Das ist ein Schlag·instrument
+        - Das ist ein Schlaginstrument
 
       . Keyboard
 
-     . Das ist ein Tasten·instrument.
+  - Das ist ein Tasten·instrument.
 
-       . Bass 
+       - Bass 
 
-        . Das ist ein Zupf·instrument
+       - Das ist ein Zupf·instrument
 
-       Ein Bass sieht aus wie eine Gitarre.
+   Ein Bass sieht aus wie eine Gitarre.
 
-       Aber ein Bass hat oft nur 4 Saiten.
+   Aber ein Bass hat oft nur 4 Saiten.
 
-       Eine Gitarre hat oft 5 Saiten.
+   Eine Gitarre hat oft 5 Saiten.
 
-       Und ein Bass ist länger als eine Gitarre.
+   Und ein Bass ist länger als eine Gitarre.
 
-       Der Bass wird mit einem Gerät verbunden.
+   Der Bass wird mit einem Gerät verbunden.
 
-       Das Gerät nennt man Verstärker.
+   Das Gerät nennt man Verstärker.
+
+
 
 **Band-Clashes**
 
@@ -297,6 +294,7 @@ Band-Clashes ist Englisch.
 Clash: bedeutet Zusammen·treffen
 
 Clashes ist die Mehrzahl von clash.
+
 
 Bei **Band-Clashes** treffen sich verschiedene Bands.
 
@@ -310,6 +308,7 @@ Alle zeigen auch auf der Bühne
 
 was sie bei CELEBRATE THE MUSIC gemacht haben.
 
+
 **1.	CELEBRATE THE MUSIC im Jahr 2022 in Hamburg**
 
 Unser Projekt CELEBRATE THE MUSIC im Jahr 2022 in Hamburg 
@@ -318,13 +317,10 @@ war erfolgreich.
 
 Es waren 6 schöne Tage mit:
 
-         . Viel  Musik. 
-
-          . Vielen Treffen. 
-
-          . Verschiedene Angebote.
-
-          . Verschiedene Menschen.
+- Viel  Musik. 
+- Vielen Treffen. 
+- Verschiedene Angebote.
+- Verschiedene Menschen.
 
   
 Alle bei CELEBRATE THE MUSIC haben gut zusammen·gearbeitet.
@@ -338,42 +334,37 @@ Die Menschen haben gelacht.
 
 Die Menschen haben viel Spaß gehabt:
 
-     . Bei den Worshops.
-
-     . Und beim Konzert zum Schluss.
+- Bei den Worshops.
+- Und beim Konzert zum Schluss.
 
   
 CELEBRATE THE MUSIC Im Jahr 2022 in Hamburg hat an verschiedenen Orten stattgefunden.
 
 Wie zum Beispiel:
 
-      . In Schulen.
-
-      . In Einrichtungen.
+- In Schulen.
+- In Einrichtungen.
 
   
 CELEBRATE THE MUSIC hat zusammen·gearbeitet mit:
 
- . der Altonale 
-
- . dem Sportfest der Inklusions·agentur Norderstedt.
-
- . dem Trockendock e.V.
-
-. und der Staatlichen Jugendmusikschule Hamburg.
+- der Altonale 
+- dem Sportfest der Inklusions·agentur Norderstedt.
+- dem Trockendock e.V.
+- und der Staatlichen Jugendmusikschule Hamburg.
 
 Alle Menschen dürften bei CELEBRATE THE MUSIC mitmachen:
 
- . Menschen mit Behinderung
+- Menschen mit Behinderung
 
- . und Menschen ohne Behinderung.
+- und Menschen ohne Behinderung.
 
   
 Danke an alle: 
 
-. Die  bei CELEBRATE THE MUSIC mitgemacht haben.
+- Die  bei CELEBRATE THE MUSIC mitgemacht haben.
 
-. Die  bei CELEBRATE THE MUSIC geholfen haben.
+- Die  bei CELEBRATE THE MUSIC geholfen haben.
 
   
 **Ihr wollt auch bei bei CELEBRATE THE MUSIC mitmachen?**
