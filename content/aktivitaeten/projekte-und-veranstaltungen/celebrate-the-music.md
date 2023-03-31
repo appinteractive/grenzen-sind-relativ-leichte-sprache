@@ -176,7 +176,7 @@ Zum Beispiel:
 • Sie reden über ein Thema.  
 • Und dabei haben sie neue Ideen.
 
-\**  
+  
 Workshop 1: Drum·circle**
 
 Drum·circle ist Englisch.
@@ -197,7 +197,7 @@ Dabei lernen sie Rhythmus.
 
 Und sie haben Spaß.
 
-\*_Workshop 2: Body Rhythm_*
+_Workshop 2: Body Rhythm_
 
 **Body Rhythm** ist Englisch.
 
@@ -231,8 +231,8 @@ wenn du Musik hörst.
 
 Und du hast viel Spaß.
 
-\**  
-Workshop 3: Stimme & Chor**
+  
+Workshop 3: Stimme & Chor
 
 Ein Chor ist eine Gruppe von Menschen.
 
