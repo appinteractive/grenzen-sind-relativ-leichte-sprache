@@ -183,9 +183,9 @@ Dabei lernen sie Rhythmus.
 
 Und sie haben Spaß.
 
-**  
+
   
-Workshop 2: Body Rhythm**
+**Workshop 2: Body Rhythm**
 
 Body Rhythm ist Englisch.
 
