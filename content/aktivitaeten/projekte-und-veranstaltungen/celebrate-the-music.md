@@ -164,8 +164,7 @@ Wir geben dir Tipps,
 
 damit noch mehr Menschen mitmachen.
 
-**  
-1\. Workshops**
+1\. Workshops
 
 Workshop ist ein englisches Wort.  
 Das spricht man so: Wörk·schopp.  
@@ -176,7 +175,6 @@ Zum Beispiel:
 • Sie reden über ein Thema.  
 • Und dabei haben sie neue Ideen.
 
-  
 **Workshop 1: Drum·circle**
 
 Drum·circle ist Englisch.
@@ -231,7 +229,6 @@ wenn du Musik hörst.
 
 Und du hast viel Spaß.
 
-  
 **Workshop 3: Stimme & Chor**
 
 Ein Chor ist eine Gruppe von Menschen.
@@ -252,7 +249,6 @@ Das Singen im Chor macht den Menschen Freude.
 
 Die Menschen fühlen sich verbunden.
 
-  
 **Workshop 4: Band·training**
 
 Band·training ist Englisch
@@ -321,7 +317,6 @@ Alle zeigen auch auf der Bühne
 
 was sie bei CELEBRATE THE MUSIC gemacht haben.
 
-  
 **1. CELEBRATE THE MUSIC im Jahr 2022 in Hamburg**
 
 Unser Projekt CELEBRATE THE MUSIC im Jahr 2022 in Hamburg
