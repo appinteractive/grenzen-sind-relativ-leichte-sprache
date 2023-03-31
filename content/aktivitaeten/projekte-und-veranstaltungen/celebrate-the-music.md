@@ -47,6 +47,7 @@ Bei CELEBRATE THE MUSIC kommen viele Menschen zusammen:
 * Und Alle gehören dazu.
 
   
+  
 Mischa Gohlke hat CELEBRATE THE MUSIC gegründet.
 
 Mischa kann schlecht hören.
@@ -73,6 +74,8 @@ Man sagt:
 
 Mischa ist Aktivist.
 
+  
+  
 Bei CELEBRATE THE MUSIC arbeiten viele Lehrer und Lehrerinnen.
 
 Die Lehrer nennt man Dozenten.
