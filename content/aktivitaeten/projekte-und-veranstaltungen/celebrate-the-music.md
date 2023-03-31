@@ -215,9 +215,8 @@ Du lernst bei  Body Rhythm :
 
 Und du hast viel Spaß.
 
-**  
   
-Workshop 3: Stimme & Chor**
+**Workshop 3: Stimme & Chor**
 
 Ein Chor ist eine Gruppe von Menschen.
 
@@ -236,9 +235,9 @@ Das Singen im Chor macht den Menschen Freude.
 
 Die Menschen fühlen sich verbunden.
 
-**  
   
-Workshop 4: Band·training**
+  
+**Workshop 4: Band·training**
 
 Band·training ist Englisch
 
