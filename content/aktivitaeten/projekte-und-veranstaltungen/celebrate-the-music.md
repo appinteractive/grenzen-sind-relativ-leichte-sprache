@@ -18,6 +18,7 @@ wide: false
 
 **1. Allgemeine Informationen**
 
+  
 CELEBRATE THE MUSIC ist Englisch.
 
 Es bedeutet auf Deutsch: Feiere die Musik.
@@ -32,6 +33,7 @@ CELEBRATE THE MUSIC ist eine Veranstaltung:
 
 . Und mit einem Konzert zum Schluss.
 
+  
 CELEBRATE THE MUSIC findet an mehreren Tagen statt.
 
 In diesen Tagen kann man:
@@ -42,6 +44,7 @@ In diesen Tagen kann man:
 
 . Und viel Musik machen.
 
+  
 Bei CELEBRATE THE MUSIC kommen viele Menschen zusammen:
 
 . Alle können mitmachen.
@@ -50,6 +53,7 @@ Bei CELEBRATE THE MUSIC kommen viele Menschen zusammen:
 
 . Und Alle gehören dazu.
 
+  
 Mischa Gohlke hat CELEBRATE THE MUSIC gegründet.
 
 Mischa kann schlecht hören.
@@ -76,6 +80,7 @@ Man sagt:
 
 Mischa ist Aktivist.
 
+  
 Bei CELEBRATE THE MUSIC arbeiten viele Lehrer und Lehrerinnen.
 
 Die Lehrer nennt man Dozenten.
@@ -86,6 +91,7 @@ Sie sind alle Fach·leute für Musik.
 
 Und sie bieten verschiedene Kurse an.
 
+  
 Die Dozenten und Dozentinnen Bei CELEBRATE THE MUSIC sind:
 
 . David Alleckna
@@ -106,6 +112,7 @@ Die Dozenten und Dozentinnen Bei CELEBRATE THE MUSIC sind:
 
 . und Michael Nick.
 
+  
 Sie haben alle Musik mit bekannten Musikern und Musikerinnen gemacht.
 
 Wie zum Beispiel mit:
@@ -128,6 +135,7 @@ Wie zum Beispiel mit:
 
 . und Nena
 
+  
 Menschen Bei CELEBRATE THE MUSIC:
 
 . Lernen voneinander.
@@ -140,6 +148,7 @@ Menschen Bei CELEBRATE THE MUSIC:
 
 Denn bei CELEBRATE THE MUSIC ist der Mensch wichtig.
 
+  
 CELEBRATE THE MUSIC findet statt :
 
 . in Schulen
@@ -150,10 +159,12 @@ CELEBRATE THE MUSIC findet statt :
 
 . bei verschieden Festen.
 
+  
 Du kannst in den Videos unten sehen,
 
 wie CELEBRATE THE MUSIC in Hamburg war.
 
+  
 Du willst eine CELEBRATE THE MUSIC Veranstaltung machen?
 
 Wir erklären dir genau wie es geht.
@@ -164,7 +175,8 @@ Wir geben dir Tipps,
 
 damit noch mehr Menschen mitmachen.
 
-1\. Workshops
+  
+**1. Workshops**
 
 Workshop ist ein englisches Wort.  
 Das spricht man so: Wörk·schopp.  
@@ -175,7 +187,8 @@ Zum Beispiel:
 • Sie reden über ein Thema.  
 • Und dabei haben sie neue Ideen.
 
-**Workshop 1: Drum·circle**
+**  
+Workshop 1: Drum·circle**
 
 Drum·circle ist Englisch.
 
@@ -195,7 +208,8 @@ Dabei lernen sie Rhythmus.
 
 Und sie haben Spaß.
 
-**Workshop 2: Body Rhythm**
+**  
+Workshop 2: Body Rhythm**
 
 **Body Rhythm** ist Englisch.
 
@@ -229,7 +243,8 @@ wenn du Musik hörst.
 
 Und du hast viel Spaß.
 
-**Workshop 3: Stimme & Chor**
+**  
+Workshop 3: Stimme & Chor**
 
 Ein Chor ist eine Gruppe von Menschen.
 
@@ -249,7 +264,8 @@ Das Singen im Chor macht den Menschen Freude.
 
 Die Menschen fühlen sich verbunden.
 
-**Workshop 4: Band·training**
+**  
+Workshop 4: Band·training**
 
 Band·training ist Englisch
 
@@ -297,7 +313,8 @@ Der Bass wird mit einem Gerät verbunden.
 
 Das Gerät nennt man Verstärker.
 
-**Band-Clashes**
+**  
+Band-Clashes**
 
 Band-Clashes ist Englisch.
 
@@ -317,7 +334,8 @@ Alle zeigen auch auf der Bühne
 
 was sie bei CELEBRATE THE MUSIC gemacht haben.
 
-**1. CELEBRATE THE MUSIC im Jahr 2022 in Hamburg**
+**  
+1\. CELEBRATE THE MUSIC im Jahr 2022 in Hamburg**
 
 Unser Projekt CELEBRATE THE MUSIC im Jahr 2022 in Hamburg
 
@@ -333,6 +351,7 @@ Es waren 6 schöne Tage mit:
 
 . Verschiedene Menschen.
 
+  
 Alle bei CELEBRATE THE MUSIC haben gut zusammen·gearbeitet.
 
 Alle waren zufrieden.
@@ -347,6 +366,7 @@ Die Menschen haben viel Spaß gehabt:
 
 . Und beim Konzert zum Schluss.
 
+  
 CELEBRATE THE MUSIC Im Jahr 2022 in Hamburg hat an verschiedenen Orten stattgefunden.
 
 Wie zum Beispiel:
