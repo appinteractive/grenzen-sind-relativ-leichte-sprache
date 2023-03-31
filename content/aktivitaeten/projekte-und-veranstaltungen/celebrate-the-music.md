@@ -27,31 +27,25 @@ CELEBRATE THE MUSIC spricht man so aus: tselebräte ze mjusik
 
 CELEBRATE THE MUSIC ist eine Veranstaltung:
 
-      . mit verschiedenen Workshops für Musik 
-
-      . mit Treffen von Bands
-
-      . Und mit einem Konzert zum Schluss.
+- mit verschiedenen Workshops für Musik 
+- mit Treffen von Bands
+- Und mit einem Konzert zum Schluss.
 
   
 CELEBRATE THE MUSIC findet an mehreren Tagen statt.
 
 In diesen Tagen kann man:
 
-          . Mit anderen sprechen.
-
-          . Informationen austauschen.
-
-          . Und viel Musik machen.
+- Mit anderen sprechen.
+- Informationen austauschen.
+- Und viel Musik machen.
 
   
 Bei CELEBRATE THE MUSIC kommen viele Menschen zusammen:
 
-         . Alle können mitmachen.
-
-         . Alle sind wichtig.
-
-        . Und Alle gehören dazu.
+- Alle können mitmachen.
+- Alle sind wichtig.
+- Und Alle gehören dazu.
 
   
 Mischa Gohlke hat CELEBRATE THE MUSIC gegründet.
@@ -92,46 +86,30 @@ Und sie bieten verschiedene Kurse an.
 
 Die Dozenten und Dozentinnen Bei CELEBRATE THE MUSIC sind: 
 
-        . David Alleckna
-
-        . Volkan Baydar 
-
-        . Oded Kafri 
-
-        . Ben Schütz
-
-        . Rico Bowen
-
-        . Alexandra Pengler
-
-        . Jens Carstens
-
-        . Lili Czuya 
-
-        . und Michael Nick. 
+- David Alleckna
+- Volkan Baydar 
+- Oded Kafri 
+- Ben Schütz
+- Rico Bowen
+- Alexandra Pengler
+- Jens Carstens
+- Lili Czuya 
+- und Michael Nick. 
 
   
 Sie haben alle Musik mit bekannten Musikern und Musikerinnen gemacht.
 
 Wie zum Beispiel mit:
 
-       . Phil Collins 
-
-       . Madonna 
-
-       . Shakira 
-
-     . Dave Matthews Band 
-
-     . Udo Lindenberg 
-
-     . Roger Cicero 
-
-     . Selig, Sasha 
-
-     . Helene Fischer 
-
-     . und Nena
+- Phil Collins 
+- Madonna 
+- Shakira 
+- Dave Matthews Band 
+- Udo Lindenberg 
+- Roger Cicero 
+- Selig, Sasha 
+- Helene Fischer 
+- und Nena
 
 Menschen Bei CELEBRATE THE MUSIC:
 
