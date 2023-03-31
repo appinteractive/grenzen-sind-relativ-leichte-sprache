@@ -164,7 +164,7 @@ Wir geben dir Tipps,
 
 damit noch mehr Menschen mitmachen.
 
-\**  
+**  
 1\. Workshops**
 
 Workshop ist ein englisches Wort.  
