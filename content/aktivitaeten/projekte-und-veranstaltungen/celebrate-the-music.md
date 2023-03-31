@@ -375,6 +375,7 @@ Wie zum Beispiel:
 
 . In Einrichtungen.
 
+  
 CELEBRATE THE MUSIC hat zusammen·gearbeitet mit:
 
 . der Altonale
@@ -391,12 +392,14 @@ Alle Menschen dürften bei CELEBRATE THE MUSIC mitmachen:
 
 . und Menschen ohne Behinderung.
 
+  
 Danke an alle:
 
 . Die bei CELEBRATE THE MUSIC mitgemacht haben.
 
 . Die bei CELEBRATE THE MUSIC geholfen haben.
 
+  
 Ihr wollt auch bei bei CELEBRATE THE MUSIC mitmachen?
 
 Schreibt eine Mail an Fabia.
@@ -405,10 +408,12 @@ Die Mail von Fabia ist:
 
 produktion@grenzensindrelativ.de
 
+  
 Wir freuen uns auf CELEBRATE THE MUSIC mit euch
 
 im Jahr 2023.
 
+  
 Aktion Mensch Stiftung Hamburger Stiftung Wohnen hat Geld gegeben,
 
 um das Projekt zu machen.
