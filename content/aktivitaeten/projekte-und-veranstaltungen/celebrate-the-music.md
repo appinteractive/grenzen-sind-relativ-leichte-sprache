@@ -181,6 +181,7 @@ Dabei lernen sie Rhythmus.
 Und sie haben Spaß.
 
 **  
+  
 Workshop 2: Body Rhythm**
 
 Body Rhythm ist Englisch.
@@ -212,6 +213,7 @@ Du lernst bei  Body Rhythm :
 Und du hast viel Spaß.
 
 **  
+  
 Workshop 3: Stimme & Chor**
 
 Ein Chor ist eine Gruppe von Menschen.
@@ -232,6 +234,7 @@ Das Singen im Chor macht den Menschen Freude.
 Die Menschen fühlen sich verbunden.
 
 **  
+  
 Workshop 4: Band·training**
 
 Band·training ist Englisch
@@ -278,7 +281,7 @@ Der Bass wird mit einem Gerät verbunden.
 Das Gerät nennt man Verstärker.
 
   
-\**Band-Clashes**
+**Band-Clashes**
 
 Band-Clashes ist Englisch.
 
@@ -300,7 +303,7 @@ Alle zeigen auch auf der Bühne
 was sie bei CELEBRATE THE MUSIC gemacht haben.
 
   
-1\.	CELEBRATE THE MUSIC im Jahr 2022 in Hamburg
+**1.	CELEBRATE THE MUSIC im Jahr 2022 in Hamburg**
 
 Unser Projekt CELEBRATE THE MUSIC im Jahr 2022 in Hamburg
 
@@ -313,6 +316,7 @@ Es waren 6 schöne Tage mit:
 * Verschiedene Angebote.
 * Verschiedene Menschen.
 
+  
   
 Alle bei CELEBRATE THE MUSIC haben gut zusammen·gearbeitet.
 
@@ -328,6 +332,7 @@ Die Menschen haben viel Spaß gehabt:
 * Und beim Konzert zum Schluss.
 
   
+  
 CELEBRATE THE MUSIC Im Jahr 2022 in Hamburg hat an verschiedenen Orten stattgefunden.
 
 Wie zum Beispiel:
@@ -335,6 +340,7 @@ Wie zum Beispiel:
 * In Schulen.
 * In Einrichtungen.
 
+  
   
 CELEBRATE THE MUSIC hat zusammen·gearbeitet mit:
 
