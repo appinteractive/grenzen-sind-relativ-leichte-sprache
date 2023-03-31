@@ -199,7 +199,8 @@
         {
           "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music.md",
           "disabled": false,
-          "title": "Celebrate the music"
+          "title": "Celebrate the music",
+          "showInMainNavigation": true
         },
         {
           "title": "AndersSein vereint - Inklusionssong für Deutschland",
