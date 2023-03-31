@@ -150,7 +150,9 @@
             },
             {
               "title": "Pressespiegel",
-              "children": [],
+              "children": [
+
+              ],
               "page": "content/media/pressespiegel-kompakt.md"
             },
             {
@@ -195,6 +197,11 @@
       "title": "Aktivitäten",
       "children": [
         {
+          "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music.md",
+          "disabled": false,
+          "title": "Celebrate the music"
+        },
+        {
           "title": "AndersSein vereint - Inklusionssong für Deutschland",
           "page": "content/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-projektinfo.md"
         },
@@ -211,7 +218,9 @@
           "page": "content/aktivitaeten/projekte-und-veranstaltungen/mach-dein-event-mit-uns.md"
         },
         {
-          "children": [],
+          "children": [
+
+          ],
           "title": "Kooperationsprojekte",
           "page": "content/aktivitaeten/projekte-und-veranstaltungen/kooperationsprojekte.md"
         }
