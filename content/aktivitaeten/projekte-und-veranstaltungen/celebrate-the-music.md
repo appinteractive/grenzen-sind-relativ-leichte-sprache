@@ -47,6 +47,7 @@ Bei CELEBRATE THE MUSIC kommen viele Menschen zusammen:
 - Alle sind wichtig.
 - Und Alle gehören dazu.
 
+
   
 Mischa Gohlke hat CELEBRATE THE MUSIC gegründet.
 
