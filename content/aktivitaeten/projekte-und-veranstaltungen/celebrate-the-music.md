@@ -16,8 +16,7 @@ wide: false
 ---
 # CELEBRATE THE MUSIC
 
-  
-**1. Allgemeine Informationen__**
+**1. Allgemeine Informationen**
 
 CELEBRATE THE MUSIC ist Englisch.
 
@@ -87,7 +86,6 @@ Sie sind alle Fach·leute für Musik.
 
 Und sie bieten verschiedene Kurse an.
 
-  
 Die Dozenten und Dozentinnen Bei CELEBRATE THE MUSIC sind:
 
 . David Alleckna
@@ -108,7 +106,6 @@ Die Dozenten und Dozentinnen Bei CELEBRATE THE MUSIC sind:
 
 . und Michael Nick.
 
-  
 Sie haben alle Musik mit bekannten Musikern und Musikerinnen gemacht.
 
 Wie zum Beispiel mit:
@@ -131,7 +128,6 @@ Wie zum Beispiel mit:
 
 . und Nena
 
-  
 Menschen Bei CELEBRATE THE MUSIC:
 
 . Lernen voneinander.
@@ -142,10 +138,8 @@ Menschen Bei CELEBRATE THE MUSIC:
 
 . Und hören anderen Menschen zu.
 
-  
 Denn bei CELEBRATE THE MUSIC ist der Mensch wichtig.
 
-  
 CELEBRATE THE MUSIC findet statt :
 
 . in Schulen
@@ -160,7 +154,6 @@ Du kannst in den Videos unten sehen,
 
 wie CELEBRATE THE MUSIC in Hamburg war.
 
-  
 Du willst eine CELEBRATE THE MUSIC Veranstaltung machen?
 
 Wir erklären dir genau wie es geht.
@@ -171,7 +164,7 @@ Wir geben dir Tipps,
 
 damit noch mehr Menschen mitmachen.
 
-**  
+\**  
 1\. Workshops**
 
 Workshop ist ein englisches Wort.  
@@ -183,7 +176,7 @@ Zum Beispiel:
 • Sie reden über ein Thema.  
 • Und dabei haben sie neue Ideen.
 
-**  
+\**  
 Workshop 1: Drum·circle**
 
 Drum·circle ist Englisch.
@@ -204,8 +197,7 @@ Dabei lernen sie Rhythmus.
 
 Und sie haben Spaß.
 
-  
-\**Workshop 2: Body Rhythm**
+\*_Workshop 2: Body Rhythm_*
 
 **Body Rhythm** ist Englisch.
 
@@ -239,7 +231,7 @@ wenn du Musik hörst.
 
 Und du hast viel Spaß.
 
-**  
+\**  
 Workshop 3: Stimme & Chor**
 
 Ein Chor ist eine Gruppe von Menschen.
@@ -260,7 +252,7 @@ Das Singen im Chor macht den Menschen Freude.
 
 Die Menschen fühlen sich verbunden.
 
-**  
+\**  
 Workshop 4: Band·training**
 
 Band·training ist Englisch
@@ -309,7 +301,7 @@ Der Bass wird mit einem Gerät verbunden.
 
 Das Gerät nennt man Verstärker.
 
-**  
+\**  
 Band-Clashes**
 
 Band-Clashes ist Englisch.
@@ -330,7 +322,7 @@ Alle zeigen auch auf der Bühne
 
 was sie bei CELEBRATE THE MUSIC gemacht haben.
 
-**  
+\**  
 1\. CELEBRATE THE MUSIC im Jahr 2022 in Hamburg**
 
 Unser Projekt CELEBRATE THE MUSIC im Jahr 2022 in Hamburg
@@ -347,7 +339,6 @@ Es waren 6 schöne Tage mit:
 
 . Verschiedene Menschen.
 
-  
 Alle bei CELEBRATE THE MUSIC haben gut zusammen·gearbeitet.
 
 Alle waren zufrieden.
@@ -362,7 +353,6 @@ Die Menschen haben viel Spaß gehabt:
 
 . Und beim Konzert zum Schluss.
 
-  
 CELEBRATE THE MUSIC Im Jahr 2022 in Hamburg hat an verschiedenen Orten stattgefunden.
 
 Wie zum Beispiel:
@@ -371,7 +361,6 @@ Wie zum Beispiel:
 
 . In Einrichtungen.
 
-  
 CELEBRATE THE MUSIC hat zusammen·gearbeitet mit:
 
 . der Altonale
@@ -382,21 +371,18 @@ CELEBRATE THE MUSIC hat zusammen·gearbeitet mit:
 
 . und der Staatlichen Jugendmusikschule Hamburg.
 
-  
 Alle Menschen dürften bei CELEBRATE THE MUSIC mitmachen:
 
 . Menschen mit Behinderung
 
 . und Menschen ohne Behinderung.
 
-  
 Danke an alle:
 
 . Die bei CELEBRATE THE MUSIC mitgemacht haben.
 
 . Die bei CELEBRATE THE MUSIC geholfen haben.
 
-  
 Ihr wollt auch bei bei CELEBRATE THE MUSIC mitmachen?
 
 Schreibt eine Mail an Fabia.
@@ -405,17 +391,14 @@ Die Mail von Fabia ist:
 
 produktion@grenzensindrelativ.de
 
-  
 Wir freuen uns auf CELEBRATE THE MUSIC mit euch
 
 im Jahr 2023.
 
-  
 Aktion Mensch Stiftung Hamburger Stiftung Wohnen hat Geld gegeben,
 
 um das Projekt zu machen.
 
-  
 Vielen Dank.
 
 ![](/media/2021/07/20170919100223-aktion_mensch_logo.svg)
