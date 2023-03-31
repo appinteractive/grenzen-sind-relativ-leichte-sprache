@@ -163,6 +163,8 @@ Zum Beispiel:
 * Sie reden über ein Thema.
 * Und dabei haben sie neue Ideen.
 
+
+
 **Workshop 1: Drum·circle**
 
 Drum·circle ist Englisch.
@@ -214,6 +216,7 @@ Du lernst bei  Body Rhythm :
 * wenn du Musik hörst.
 
 Und du hast viel Spaß.
+
 
   
 **Workshop 3: Stimme & Chor**
@@ -282,6 +285,7 @@ Der Bass wird mit einem Gerät verbunden.
 
 Das Gerät nennt man Verstärker.
 
+
   
 **Band-Clashes**
 
@@ -292,6 +296,7 @@ Clash: bedeutet Zusammen·treffen
 Clashes ist die Mehrzahl von clash.
 
   
+
 Bei **Band-Clashes** treffen sich verschiedene Bands.
 
 Sie lernen zusammen ein Lied.
