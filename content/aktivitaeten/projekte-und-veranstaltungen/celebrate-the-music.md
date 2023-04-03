@@ -8,15 +8,15 @@ description: |
   . mit Treffen von Bands
 
   . Und mit einem Konzert zum Schluss.
-teaser: "/media/2020/10/danke-schreiben-schule.jpg"
+teaser: '/media/2020/10/danke-schreiben-schule.jpg'
 gallery: []
 alias: ''
 wide: false
-
 ---
+
 # CELEBRATE THE MUSIC
 
-### 1.	Allgemeine Informationen
+### 1. Allgemeine Informationen
 
 CELEBRATE THE MUSIC ist Englisch.
 
@@ -26,23 +26,23 @@ CELEBRATE THE MUSIC spricht man so aus: tselebräte ze mjusik
 
 CELEBRATE THE MUSIC ist eine Veranstaltung:
 
-* mit verschiedenen Workshops für Musik
-* mit Treffen von Bands
-* Und mit einem Konzert zum Schluss.
+- mit verschiedenen Workshops für Musik
+- mit Treffen von Bands
+- Und mit einem Konzert zum Schluss.
 
 CELEBRATE THE MUSIC findet an mehreren Tagen statt.
 
 In diesen Tagen kann man:
 
-* Mit anderen sprechen.
-* Informationen austauschen.
-* Und viel Musik machen.
+- Mit anderen sprechen.
+- Informationen austauschen.
+- Und viel Musik machen.
 
 Bei CELEBRATE THE MUSIC kommen viele Menschen zusammen:
 
-* Alle können mitmachen.
-* Alle sind wichtig.
-* Und Alle gehören dazu.
+- Alle können mitmachen.
+- Alle sind wichtig.
+- Und Alle gehören dazu.
 
 Mischa Gohlke hat CELEBRATE THE MUSIC gegründet.
 
@@ -82,54 +82,51 @@ Und sie bieten verschiedene Kurse an.
 
 Die Dozenten und Dozentinnen Bei CELEBRATE THE MUSIC sind:
 
-* David Alleckna
-* Volkan Baydar
-* Oded Kafri
-* Ben Schütz
-* Rico Bowen
-* Alexandra Pengler
-* Jens Carstens
-* Lili Czuya
-* und Michael Nick.
+- David Alleckna
+- Volkan Baydar
+- Oded Kafri
+- Ben Schütz
+- Rico Bowen
+- Alexandra Pengler
+- Jens Carstens
+- Lili Czuya
+- und Michael Nick.
 
 Sie haben alle Musik mit bekannten Musikern und Musikerinnen gemacht.
 
 Wie zum Beispiel mit:
 
-* Phil Collins
-* Madonna
-* Shakira
-* Dave Matthews Band
-* Udo Lindenberg
-* Roger Cicero
-* Selig, Sasha
-* Helene Fischer
-* und Nena
+- Phil Collins
+- Madonna
+- Shakira
+- Dave Matthews Band
+- Udo Lindenberg
+- Roger Cicero
+- Selig, Sasha
+- Helene Fischer
+- und Nena
 
 Menschen bei CELEBRATE THE MUSIC:
 
-* Lernen voneinander.
-* Sprechen miteinander.
-* Arbeiten zusammen.
-* Und hören anderen Menschen zu.
+- Lernen voneinander.
+- Sprechen miteinander.
+- Arbeiten zusammen.
+- Und hören anderen Menschen zu.
 
 Denn bei CELEBRATE THE MUSIC ist der Mensch wichtig.
 
 CELEBRATE THE MUSIC findet statt :
 
-* in Schulen
-* in Universitäten
-* in Einrichtungen
-* bei verschieden Festen.
+- in Schulen
+- in Universitäten
+- in Einrichtungen
+- bei verschieden Festen.
 
 Du kannst in den Videos unten sehen,
 
 wie CELEBRATE THE MUSIC in Hamburg war.
 
-</div>
-
 <video-gallery class="wide" name="celebrate-the-music"></video-gallery>
-
 
 Du willst eine CELEBRATE THE MUSIC Veranstaltung machen?
 
@@ -153,9 +150,9 @@ Und machen gemeinsam Sachen.
 
 Zum Beispiel:
 
-* Sie lernen neue Dinge.
-* Sie reden über ein Thema.
-* Und dabei haben sie neue Ideen.
+- Sie lernen neue Dinge.
+- Sie reden über ein Thema.
+- Und dabei haben sie neue Ideen.
 
 **Workshop 1: Drum·circle**
 
@@ -195,15 +192,15 @@ Das bedeutet: Töne werden mit Hilfe von deinem Körper erzeugt.
 
 Dabei brauchst du nur:
 
-* deine Hände
-* deine Füße
-* und deine Stimme.
+- deine Hände
+- deine Füße
+- und deine Stimme.
 
-Du lernst bei  Body Rhythm :
+Du lernst bei Body Rhythm :
 
-* Neue Bewegungen.
-* Deinen Körper zu spüren,
-* wenn du Musik hörst.
+- Neue Bewegungen.
+- Deinen Körper zu spüren,
+- wenn du Musik hörst.
 
 Und du hast viel Spaß.
 
@@ -219,8 +216,8 @@ Alle Menschen können beim Workshop mitmachen.
 
 Egal ob:
 
-* Sie noch nie gesungen haben.
-* Oder schon gut singen können.
+- Sie noch nie gesungen haben.
+- Oder schon gut singen können.
 
 Das Singen im Chor macht den Menschen Freude.
 
@@ -246,16 +243,19 @@ Du kannst Musik·Instrumente lernen
 
 Wie zum Beispiel:
 
-* Gitarre
+- Gitarre
 
   Das ist ein Zupf·instrument.
-* Schlagzeug
+
+- Schlagzeug
 
   Das ist ein Schlaginstrument
-* Keyboard
+
+- Keyboard
 
   Das ist ein Tasten·instrument.
-* Bass
+
+- Bass
 
   Das ist ein Zupf·instrument
 
@@ -291,7 +291,7 @@ Alle zeigen auch auf der Bühne
 
 was sie bei CELEBRATE THE MUSIC gemacht haben.
 
-**1.	CELEBRATE THE MUSIC im Jahr 2022 in Hamburg**
+**1. CELEBRATE THE MUSIC im Jahr 2022 in Hamburg**
 
 Unser Projekt CELEBRATE THE MUSIC im Jahr 2022 in Hamburg
 
@@ -299,10 +299,10 @@ war erfolgreich.
 
 Es waren 6 schöne Tage mit:
 
-* Viel  Musik.
-* Vielen Treffen.
-* Verschiedene Angebote.
-* Verschiedene Menschen.
+- Viel Musik.
+- Vielen Treffen.
+- Verschiedene Angebote.
+- Verschiedene Menschen.
 
 Alle bei CELEBRATE THE MUSIC haben gut zusammen·gearbeitet.
 
@@ -314,32 +314,32 @@ Die Menschen haben gelacht.
 
 Die Menschen haben viel Spaß gehabt:
 
-* Bei den Worshops.
-* Und beim Konzert zum Schluss.
+- Bei den Worshops.
+- Und beim Konzert zum Schluss.
 
 CELEBRATE THE MUSIC Im Jahr 2022 in Hamburg hat an verschiedenen Orten stattgefunden.
 
 Wie zum Beispiel:
 
-* In Schulen.
-* In Einrichtungen.
+- In Schulen.
+- In Einrichtungen.
 
 CELEBRATE THE MUSIC hat zusammen·gearbeitet mit:
 
-* der Altonale
-* dem Sportfest der Inklusions·agentur Norderstedt.
-* dem Trockendock e.V.
-* und der Staatlichen Jugendmusikschule Hamburg.
+- der Altonale
+- dem Sportfest der Inklusions·agentur Norderstedt.
+- dem Trockendock e.V.
+- und der Staatlichen Jugendmusikschule Hamburg.
 
 Alle Menschen dürften bei CELEBRATE THE MUSIC mitmachen:
 
-* Menschen mit Behinderung
-* und Menschen ohne Behinderung.
+- Menschen mit Behinderung
+- und Menschen ohne Behinderung.
 
 Danke an alle:
 
-* Die  bei CELEBRATE THE MUSIC mitgemacht haben.
-* Die  bei CELEBRATE THE MUSIC geholfen haben.
+- Die bei CELEBRATE THE MUSIC mitgemacht haben.
+- Die bei CELEBRATE THE MUSIC geholfen haben.
 
 Ihr wollt auch bei bei CELEBRATE THE MUSIC mitmachen?
 
@@ -349,7 +349,7 @@ Die Mail von Fabia ist:
 
 produktion@grenzensindrelativ.de
 
-Wir freuen uns auf  CELEBRATE THE MUSIC mit euch
+Wir freuen uns auf CELEBRATE THE MUSIC mit euch
 
 im Jahr 2023.
 
