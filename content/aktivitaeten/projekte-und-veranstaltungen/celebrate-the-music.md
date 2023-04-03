@@ -126,8 +126,9 @@ Du kannst in den Videos unten sehen,
 
 wie CELEBRATE THE MUSIC in Hamburg war.
 
+</div>
 
-<video-gallery name="celebrate-the-music"></video-gallery>
+<video-gallery class="wide" name="celebrate-the-music"></video-gallery>
 
 
 Du willst eine CELEBRATE THE MUSIC Veranstaltung machen?
