@@ -8,12 +8,12 @@ description: |
   . mit Treffen von Bands
 
   . Und mit einem Konzert zum Schluss.
-teaser: '/media/2020/10/danke-schreiben-schule.jpg'
+teaser: "/media/2023/04/screenshot-2023-04-04-130756.jpg"
 gallery: []
 alias: ''
 wide: false
----
 
+---
 # CELEBRATE THE MUSIC
 
 ### 1. Allgemeine Informationen
