@@ -2,6 +2,12 @@
   "teasers": true,
   "slides": [
     {
+      "page": "content/aktivitaeten/projekte-und-veranstaltungen/celebrate-the-music.md",
+      "title": "Celebrate the music",
+      "subtitle": "",
+      "image": ""
+    },
+    {
       "page": "content/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte.md",
       "title": "Musikunterricht für Hörgeschädigte",
       "subtitle": "",
